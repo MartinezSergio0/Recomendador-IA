@@ -1,0 +1,1662 @@
+Make,Model,Year,Engine_HP,Engine_Size_L,Cylinders,Transmission,Fuel_Type,Driven_Wheels,Number_of_Doors,Vehicle_Size,Vehicle_Style,Fuel_Consumption_Comb_L_100km,MSRP
+ACURA,ILX,2017,191.4375,2,4,AS5,Z,front wheel drive,4,Compact,Sedan,8.5,30712.5
+ACURA,ILX,2017,191.4375,2.4,4,M6,Z,front wheel drive,4,Compact,Sedan,9.6,30712.5
+ACURA,ILX,2017,191.4375,2,4,AS5,Z,front wheel drive,4,Compact,Sedan,8.3,30712.5
+ACURA,ILX,2017,191.4375,2.4,4,M6,Z,front wheel drive,4,Compact,Sedan,9.3,30712.5
+ACURA,ILX,2017,191.4375,2.4,4,AM8,Z,front wheel drive,4,Compact,Sedan,8.1,30712.5
+ACURA,ILX,2017,191.4375,2.4,4,AM8,Z,front wheel drive,4,Compact,Sedan,8.2,30712.5
+ACURA,ILX,2017,191.4375,2.4,4,AM8,Z,front wheel drive,4,Compact,Sedan,8.6,30712.5
+ACURA,ILX HYBRID,2014,111,1.5,4,AV7,Z,front wheel drive,4,Compact,Sedan,5.9,31750
+ACURA,ILX HYBRID,2014,111,1.5,4,AV7,Z,front wheel drive,4,Compact,Sedan,6.1,31750
+ACURA,NSX,2017,331.4,3.5,6,AM9,Z,rear wheel drive,2,Compact,Coupe,11,102400
+ACURA,RLX,2017,321.1666667,3.5,6,AS6,Z,front wheel drive,4,Midsize,Sedan,10,56491.66667
+ACURA,RLX,2017,321.1666667,3.5,6,AS6,Z,front wheel drive,4,Midsize,Sedan,10,56491.66667
+ACURA,TL,2014,293.0434783,3.5,6,AS6,Z,all wheel drive,4,Midsize,Sedan,10.1,40876.73913
+ACURA,TLX,2017,266,2.4,4,AM8,Z,front wheel drive,4,Midsize,Sedan,8.3,38730
+ACURA,TLX,2017,266,3.5,6,AS9,Z,front wheel drive,4,Midsize,Sedan,9.2,38730
+ACURA,TLX,2017,266,2.4,4,AM8,Z,front wheel drive,4,Midsize,Sedan,8.3,38730
+ACURA,TLX,2017,266,2.4,4,AM8,Z,front wheel drive,4,Midsize,Sedan,8.3,38730
+ACURA,TLX,2017,266,2.4,4,AM8,Z,front wheel drive,4,Midsize,Sedan,8.7,38730
+ACURA,TSX,2014,220.75,2.4,4,AS5,Z,front wheel drive,4,Midsize,Sedan,9.2,33284.0625
+ACURA,TSX,2014,220.75,2.4,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.8,33284.0625
+ACURA,TSX,2014,220.75,3.5,6,AS5,Z,front wheel drive,4,Midsize,Sedan,10.4,33284.0625
+ALFA ROMEO,4C,2016,237,1.8,4,AM6,Z,rear wheel drive,2,Compact,Coupe,8.4,61600
+ALFA ROMEO,4C,2016,237,1.8,4,AM6,Z,rear wheel drive,2,Compact,Coupe,8.4,61600
+ASTON MARTIN,DB9,2015,510,5.9,12,A6,Z,rear wheel drive,2,Midsize,Convertible,15.6,196522.5
+ASTON MARTIN,DB9 GT,2016,540,5.9,12,A6,Z,rear wheel drive,2,Midsize,Coupe,15.6,215602.3333
+ASTON MARTIN,RAPIDE,2012,470,5.9,12,A6,Z,rear wheel drive,4,Large,Sedan,15.6,210122.5
+ASTON MARTIN,RAPIDE S,2016,551.3333333,6,12,A8,Z,rear wheel drive,4,Large,Sedan,14.2,202748.3333
+ASTON MARTIN,RAPIDE S,2016,551.3333333,6,12,A8,Z,rear wheel drive,4,Large,Sedan,14.2,202748.3333
+ASTON MARTIN,RAPIDE S,2016,551.3333333,6,12,A8,Z,rear wheel drive,4,Large,Sedan,14.1,202748.3333
+ASTON MARTIN,RAPIDE S,2016,551.3333333,6,12,A8,Z,rear wheel drive,4,Large,Sedan,14.1,202748.3333
+ASTON MARTIN,V12 VANTAGE S,2016,565,6,12,AM7,Z,rear wheel drive,2,Compact,Coupe,16.5,188095
+ASTON MARTIN,V12 VANTAGE S,2016,565,6,12,AM7,Z,rear wheel drive,2,Compact,Coupe,16.5,188095
+ASTON MARTIN,V12 VANTAGE S,2016,565,6,12,AM7,Z,rear wheel drive,2,Compact,Coupe,16.4,188095
+ASTON MARTIN,V12 VANTAGE S,2016,565,6,12,M7,Z,rear wheel drive,2,Compact,Coupe,19.2,188095
+ASTON MARTIN,V8 VANTAGE,2016,428.75,4.7,8,AM7,Z,rear wheel drive,2,Compact,Convertible,14.7,129535
+ASTON MARTIN,V8 VANTAGE,2016,428.75,4.7,8,M6,Z,rear wheel drive,2,Compact,Convertible,15.4,129535
+ASTON MARTIN,V8 VANTAGE,2016,428.75,4.7,8,M6,Z,rear wheel drive,2,Compact,Convertible,15.5,129535
+ASTON MARTIN,V8 VANTAGE,2016,428.75,4.7,8,AM7,Z,rear wheel drive,2,Compact,Convertible,14.7,129535
+ASTON MARTIN,V8 VANTAGE,2016,428.75,4.7,8,M6,Z,rear wheel drive,2,Compact,Convertible,15.5,129535
+ASTON MARTIN,VANQUISH,2016,567.25,5.9,12,A6,Z,rear wheel drive,2,Midsize,Convertible,15.6,297083.75
+ASTON MARTIN,VANQUISH,2016,567.25,6,12,A8,Z,rear wheel drive,2,Midsize,Convertible,14.8,297083.75
+ASTON MARTIN,VANQUISH,2016,567.25,6,12,A8,Z,rear wheel drive,2,Midsize,Convertible,14.8,297083.75
+ASTON MARTIN,VANQUISH,2016,567.25,6,12,A8,Z,rear wheel drive,2,Midsize,Convertible,14.7,297083.75
+ASTON MARTIN,VANQUISH,2016,567.25,6,12,A8,Z,rear wheel drive,2,Midsize,Convertible,14.7,297083.75
+AUDI,A3,2017,190.3404255,1.8,4,AM6,Z,front wheel drive,3.14893617,Compact,Sedan,8.7,38652.12766
+AUDI,A3,2017,190.3404255,1.8,4,AM6,X,front wheel drive,3.14893617,Compact,Sedan,8.7,38652.12766
+AUDI,A3,2017,190.3404255,2,4,AM7,X,front wheel drive,3.14893617,Compact,Sedan,8,38652.12766
+AUDI,A3,2017,190.3404255,2,4,AM7,X,front wheel drive,3.14893617,Compact,Sedan,8.1,38652.12766
+AUDI,A3,2017,190.3404255,2,4,AM7,X,front wheel drive,3.14893617,Compact,Sedan,7.8,38652.12766
+AUDI,A4,2017,225.36,2,4,AV8,Z,all wheel drive,4,Midsize,Sedan,8.8,39752
+AUDI,A4,2017,225.36,2,4,AV8,Z,all wheel drive,4,Midsize,Sedan,8.9,39752
+AUDI,A4,2017,225.36,2,4,AV8,Z,all wheel drive,4,Midsize,Sedan,8.9,39752
+AUDI,A4,2017,225.36,2,4,AM7,Z,all wheel drive,4,Midsize,Sedan,7.6,39752
+AUDI,A4,2017,225.36,2,4,AM7,Z,all wheel drive,4,Midsize,Sedan,7.8,39752
+AUDI,A8,2017,384.3333333,3,6,AS8,Z,all wheel drive,4,Large,Sedan,11.2,94850
+AUDI,A8,2017,384.3333333,4,8,AS8,Z,all wheel drive,4,Large,Sedan,11.3,94850
+AUDI,A8,2017,384.3333333,3,6,AS8,Z,all wheel drive,4,Large,Sedan,10.5,94850
+AUDI,A8,2017,384.3333333,4,8,AS8,Z,all wheel drive,4,Large,Sedan,10.7,94850
+AUDI,A8,2017,384.3333333,3,6,AS8,Z,all wheel drive,4,Large,Sedan,10.5,94850
+AUDI,A8,2017,384.3333333,4,8,AS8,Z,all wheel drive,4,Large,Sedan,10.7,94850
+AUDI,A8,2017,384.3333333,3,6,AS8,Z,all wheel drive,4,Large,Sedan,10.5,94850
+AUDI,A8,2017,384.3333333,4,8,AS8,Z,all wheel drive,4,Large,Sedan,12.4,94850
+AUDI,ALLROAD QUATTRO,2005,262.5,2,4,AS8,Z,all wheel drive,4,Midsize,Wagon,10.5,41943.75
+AUDI,Q3,2017,200,2,4,AS6,Z,all wheel drive,4,Compact,4dr SUV,10.3,36292.85714
+AUDI,Q3,2017,200,2,4,AS6,Z,all wheel drive,4,Compact,4dr SUV,10.3,36292.85714
+AUDI,Q3,2017,200,2,4,AS6,Z,all wheel drive,4,Compact,4dr SUV,10.3,36292.85714
+AUDI,Q3,2017,200,2,4,AS6,Z,all wheel drive,4,Compact,4dr SUV,10.1,36292.85714
+AUDI,Q5,2017,244.1,2,4,AS8,Z,all wheel drive,4,Midsize,4dr SUV,10.4,48255
+AUDI,Q5,2017,244.1,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,11.2,48255
+AUDI,Q5,2017,244.1,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,11.4,48255
+AUDI,Q5,2017,244.1,2,4,AS8,Z,all wheel drive,4,Midsize,4dr SUV,10.5,48255
+AUDI,Q5,2017,244.1,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,11.4,48255
+AUDI,Q5,2017,244.1,2,4,AS7,Z,all wheel drive,4,Midsize,4dr SUV,9.6,48255
+AUDI,Q5,2017,244.1,2,4,AM7,Z,all wheel drive,4,Midsize,4dr SUV,9.9,48255
+AUDI,Q5,2017,244.1,2,4,AM7,Z,all wheel drive,4,Midsize,4dr SUV,9.7,48255
+AUDI,Q7,2017,281.6666667,3,6,AS8,Z,all wheel drive,4,Large,4dr SUV,13.2,57373.33333
+AUDI,Q7,2017,281.6666667,3,6,AS8,Z,all wheel drive,4,Large,4dr SUV,13.3,57373.33333
+AUDI,Q7,2017,281.6666667,2,4,AS8,Z,all wheel drive,4,Large,4dr SUV,10.8,57373.33333
+AUDI,Q7,2017,281.6666667,3,6,AS8,Z,all wheel drive,4,Large,4dr SUV,11.1,57373.33333
+AUDI,Q7,2017,281.6666667,2,4,AS8,Z,all wheel drive,4,Large,4dr SUV,11,57373.33333
+AUDI,Q7,2017,281.6666667,3,6,AS8,Z,all wheel drive,4,Large,4dr SUV,12.7,57373.33333
+AUDI,R8,2017,506.4,4.2,8,A7,Z,all wheel drive,2,Compact,Coupe,14.6,158819.6
+AUDI,R8,2017,506.4,4.2,8,M6,Z,all wheel drive,2,Compact,Coupe,17.7,158819.6
+AUDI,R8,2017,506.4,5.2,10,A7,Z,all wheel drive,2,Compact,Coupe,14.8,158819.6
+AUDI,R8,2017,506.4,5.2,10,M6,Z,all wheel drive,2,Compact,Coupe,17.8,158819.6
+AUDI,R8,2017,506.4,4.2,8,AM7,Z,all wheel drive,2,Compact,Coupe,14.2,158819.6
+AUDI,R8,2017,506.4,4.2,8,M6,Z,all wheel drive,2,Compact,Coupe,16.6,158819.6
+AUDI,R8,2017,506.4,5.2,10,AM7,Z,all wheel drive,2,Compact,Coupe,14.8,158819.6
+AUDI,R8,2017,506.4,5.2,10,M6,Z,all wheel drive,2,Compact,Coupe,16.4,158819.6
+AUDI,R8,2017,506.4,5.2,10,AM7,Z,all wheel drive,2,Compact,Coupe,14.1,158819.6
+AUDI,R8,2017,506.4,5.2,10,AM7,Z,all wheel drive,2,Compact,Coupe,13.1,158819.6
+AUDI,RS 5,2015,450,4.2,8,A7,Z,all wheel drive,2,Midsize,Convertible,13.3,74066.66667
+AUDI,RS 5,2015,450,4.2,8,AM7,Z,all wheel drive,2,Midsize,Convertible,12.8,74066.66667
+AUDI,RS 5,2015,450,2.9,6,AM8,Z,all wheel drive,2,Midsize,Convertible,11.1,74066.66667
+AUDI,RS 7,2017,560,4,8,AS8,Z,all wheel drive,4,Large,Sedan,12.5,108700
+AUDI,RS 7,2017,560,4,8,AS8,Z,all wheel drive,4,Large,Sedan,13.3,108700
+AUDI,RS 7,2017,560,4,8,AS8,Z,all wheel drive,4,Large,Sedan,13.1,108700
+AUDI,RS 7,2017,560,4,8,AS8,Z,all wheel drive,4,Large,Sedan,13.7,108700
+AUDI,S3,2017,292,2,4,AM6,Z,all wheel drive,4,Compact,Sedan,9,45091.66667
+AUDI,S3,2017,292,2,4,AM6,Z,all wheel drive,4,Compact,Sedan,9.9,45091.66667
+AUDI,S3,2017,292,2,4,AM7,Z,all wheel drive,4,Compact,Sedan,9.6,45091.66667
+AUDI,S3,2017,292,2,4,AM7,Z,all wheel drive,4,Compact,Sedan,9.5,45091.66667
+AUDI,S4,2016,333,3,6,A7,Z,all wheel drive,4,Midsize,Sedan,11.4,52150
+AUDI,S4,2016,333,3,6,M6,Z,all wheel drive,4,Midsize,Sedan,12.4,52150
+AUDI,S4,2016,333,3,6,AM7,Z,all wheel drive,4,Midsize,Sedan,11,52150
+AUDI,S4,2016,333,3,6,M6,Z,all wheel drive,4,Midsize,Sedan,11.7,52150
+AUDI,S4,2016,333,3,6,AM8,Z,all wheel drive,4,Midsize,Sedan,9.9,52150
+AUDI,S4,2016,333,3,6,AS8,Z,all wheel drive,4,Midsize,Sedan,9.8,52150
+AUDI,S4,2016,333,3,6,AS8,Z,all wheel drive,4,Midsize,Sedan,10.5,52150
+AUDI,S5,2017,333,3,6,A7,Z,all wheel drive,2,Midsize,Coupe,11.4,58183.33333
+AUDI,S5,2017,333,3,6,M6,Z,all wheel drive,2,Midsize,Coupe,12.4,58183.33333
+AUDI,S5,2017,333,3,6,AM7,Z,all wheel drive,2,Midsize,Coupe,11,58183.33333
+AUDI,S5,2017,333,3,6,M6,Z,all wheel drive,2,Midsize,Coupe,11.7,58183.33333
+AUDI,S5,2017,333,3,6,AM7,Z,all wheel drive,2,Midsize,Coupe,11,58183.33333
+AUDI,S5,2017,333,3,6,M6,Z,all wheel drive,2,Midsize,Coupe,11.7,58183.33333
+AUDI,S5,2017,333,3,6,AM8,Z,all wheel drive,2,Midsize,Coupe,9.9,58183.33333
+AUDI,S5,2017,333,3,6,AS8,Z,all wheel drive,2,Midsize,Coupe,9.8,58183.33333
+AUDI,S5,2017,333,3,6,AS8,Z,all wheel drive,2,Midsize,Coupe,10.5,58183.33333
+AUDI,S6,2017,444,4,8,A7,Z,all wheel drive,4,Midsize,Sedan,12.2,73340
+AUDI,S6,2017,444,4,8,AM7,Z,all wheel drive,4,Midsize,Sedan,11.7,73340
+AUDI,S6,2017,444,4,8,AM7,Z,all wheel drive,4,Midsize,Sedan,11.3,73340
+AUDI,S6,2017,444,4,8,AM7,Z,all wheel drive,4,Midsize,Sedan,12.8,73340
+AUDI,S6,2017,444,2.9,6,AS8,Z,all wheel drive,4,Midsize,Sedan,10.9,73340
+AUDI,S7,2017,442.5,4,8,A7,Z,all wheel drive,4,Large,Sedan,12.2,82050
+AUDI,S7,2017,442.5,4,8,AM7,Z,all wheel drive,4,Large,Sedan,11.7,82050
+AUDI,S7,2017,442.5,4,8,AM7,Z,all wheel drive,4,Large,Sedan,11.4,82050
+AUDI,S7,2017,442.5,4,8,AM7,Z,all wheel drive,4,Large,Sedan,12.8,82050
+AUDI,S7,2017,442.5,2.9,6,AS8,Z,all wheel drive,4,Large,Sedan,10.9,82050
+AUDI,S8,2017,562.5,4,8,AS8,Z,all wheel drive,4,Large,Sedan,12.8,115150
+AUDI,S8,2017,562.5,4,8,AS8,Z,all wheel drive,4,Large,Sedan,11.9,115150
+AUDI,S8,2017,562.5,4,8,AS8,Z,all wheel drive,4,Large,Sedan,13.4,115150
+AUDI,S8,2017,562.5,4,8,AS8,Z,all wheel drive,4,Large,Sedan,13.4,115150
+AUDI,S8,2017,562.5,4,8,AS8,Z,all wheel drive,4,Large,Sedan,14.5,115150
+AUDI,SQ5,2017,354,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,12.7,56850
+AUDI,SQ5,2017,354,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,12.2,56850
+AUDI,SQ5,2017,354,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,12.2,56850
+AUDI,SQ5,2017,354,3,6,AM8,Z,all wheel drive,4,Midsize,4dr SUV,11.5,56850
+AUDI,SQ5,2017,354,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,11.5,56850
+AUDI,SQ5,2017,354,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,11.8,56850
+AUDI,TT RS,2013,360,2.5,5,AM7,Z,all wheel drive,2,Compact,Coupe,10.5,57025
+AUDI,TT RS,2013,360,2.5,5,AM7,Z,all wheel drive,2,Compact,Coupe,10.3,57025
+BENTLEY,CONTINENTAL GT,2016,551.2631579,4,8,AS8,Z,all wheel drive,2,Midsize,Coupe,13.4,215978.9474
+BENTLEY,CONTINENTAL GT,2016,551.2631579,6,12,AS8,Z,all wheel drive,2,Midsize,Coupe,15.5,215978.9474
+BENTLEY,CONTINENTAL GT,2016,551.2631579,4,8,AS8,Z,all wheel drive,2,Midsize,Coupe,13.1,215978.9474
+BENTLEY,CONTINENTAL GT,2016,551.2631579,6,12,AS8,Z,all wheel drive,2,Midsize,Coupe,15.4,215978.9474
+BENTLEY,CONTINENTAL GT,2016,551.2631579,6,12,AS8,Z,all wheel drive,2,Midsize,Coupe,15.4,215978.9474
+BENTLEY,CONTINENTAL GT SPEED CONVERTIBLE,2014,626,6,12,AS8,Z,all wheel drive,2,Midsize,Convertible,16.5,238700
+BENTLEY,CONTINENTAL GT3-R,2015,572,4,8,AS8,Z,all wheel drive,2,Midsize,Coupe,14.2,337000
+BENTLEY,CONTINENTAL GTC,2014,537,4,8,AS8,Z,all wheel drive,2,Midsize,Convertible,14.2,207816.6667
+BENTLEY,CONTINENTAL GTC,2014,537,6,12,AS8,Z,all wheel drive,2,Midsize,Convertible,16.5,207816.6667
+BENTLEY,CONTINENTAL SUPERSPORTS,2012,621,6,12,AS8,Z,all wheel drive,2,Midsize,Coupe,16.6,267000
+BENTLEY,Continental GT,2016,551.2631579,4,8,AM8,Z,all wheel drive,2,Midsize,Coupe,12.4,215978.9474
+BENTLEY,Continental GT,2016,551.2631579,6,12,AM8,Z,all wheel drive,2,Midsize,Coupe,15.7,215978.9474
+BENTLEY,FLYING SPUR,2016,569.6,6,12,AS8,Z,all wheel drive,4,Large,Sedan,16.5,206940
+BENTLEY,FLYING SPUR,2016,569.6,4,8,AS8,Z,all wheel drive,4,Large,Sedan,14.2,206940
+BENTLEY,FLYING SPUR,2016,569.6,4,8,AS8,Z,all wheel drive,4,Large,Sedan,13.8,206940
+BENTLEY,FLYING SPUR,2016,569.6,6,12,AS8,Z,all wheel drive,4,Large,Sedan,16,206940
+BENTLEY,FLYING SPUR,2016,569.6,4,8,AS8,Z,all wheel drive,4,Large,Sedan,15.1,206940
+BENTLEY,FLYING SPUR,2016,569.6,6,12,AS8,Z,all wheel drive,4,Large,Sedan,16.6,206940
+BENTLEY,Flying Spur,2016,569.6,6,12,AM8,Z,all wheel drive,4,Large,Sedan,16,206940
+BENTLEY,MULSANNE,2016,511.25,6.8,8,AS8,Z,rear wheel drive,4,Large,Sedan,19,310475
+BENTLEY,MULSANNE,2016,511.25,6.8,8,AS8,Z,rear wheel drive,4,Large,Sedan,18.2,310475
+BENTLEY,MULSANNE,2016,511.25,6.8,8,AS8,Z,rear wheel drive,4,Large,Sedan,17.5,310475
+BENTLEY,MULSANNE,2016,511.25,6.8,8,AS8,Z,rear wheel drive,4,Large,Sedan,17.5,310475
+BENTLEY,MULSANNE,2016,511.25,6.8,8,AS8,Z,rear wheel drive,4,Large,Sedan,17.3,310475
+BENTLEY,Mulsanne,2016,511.25,6.8,8,AS8,Z,rear wheel drive,4,Large,Sedan,20,310475
+BMW,ACTIVEHYBRID 5,2016,335,3,6,A8,Z,rear wheel drive,4,Large,Sedan,9.3,61800
+BMW,ACTIVEHYBRID 5,2016,335,3,6,AS8,Z,rear wheel drive,4,Large,Sedan,9.4,61800
+BMW,ACTIVEHYBRID 5,2016,335,3,6,AS8,Z,rear wheel drive,4,Large,Sedan,9.4,61800
+BMW,M2,2017,365,3,6,AM7,Z,rear wheel drive,2,Compact,Coupe,10.4,51700
+BMW,M2,2017,365,3,6,M6,Z,rear wheel drive,2,Compact,Coupe,11.1,51700
+BMW,M2,2017,365,3,6,AM7,Z,rear wheel drive,2,Compact,Coupe,10.5,51700
+BMW,M2,2017,365,3,6,M6,Z,rear wheel drive,2,Compact,Coupe,11.4,51700
+BMW,M3,2017,425,3,6,AM7,Z,rear wheel drive,4,Midsize,Sedan,12.1,63166.66667
+BMW,M3,2017,425,3,6,M6,Z,rear wheel drive,4,Midsize,Sedan,11.6,63166.66667
+BMW,M3,2017,425,3,6,AM7,Z,rear wheel drive,4,Midsize,Sedan,12.1,63166.66667
+BMW,M3,2017,425,3,6,M6,Z,rear wheel drive,4,Midsize,Sedan,11.7,63166.66667
+BMW,M3,2017,425,3,6,AM7,Z,rear wheel drive,4,Midsize,Sedan,11.9,63166.66667
+BMW,M3,2017,425,3,6,M6,Z,rear wheel drive,4,Midsize,Sedan,11.6,63166.66667
+BMW,M5,2016,557.3333333,4.4,8,AM7,Z,rear wheel drive,4,Large,Sedan,14.7,93533.33333
+BMW,M5,2016,557.3333333,4.4,8,M6,Z,rear wheel drive,4,Large,Sedan,13.8,93533.33333
+BMW,M5,2016,557.3333333,4.4,8,AM7,Z,rear wheel drive,4,Large,Sedan,14.7,93533.33333
+BMW,M5,2016,557.3333333,4.4,8,M6,Z,rear wheel drive,4,Large,Sedan,13.7,93533.33333
+BMW,M5,2016,557.3333333,4.4,8,AS8,Z,rear wheel drive,4,Large,Sedan,13.9,93533.33333
+BMW,M6,2017,557.3333333,4.4,8,AM7,Z,rear wheel drive,2,Midsize,Convertible,14.7,116150
+BMW,M6,2017,557.3333333,4.4,8,M6,Z,rear wheel drive,2,Midsize,Convertible,13.8,116150
+BMW,M6,2017,557.3333333,4.4,8,AM7,Z,rear wheel drive,2,Midsize,Convertible,14.7,116150
+BMW,M6,2017,557.3333333,4.4,8,M6,Z,rear wheel drive,2,Midsize,Convertible,13.7,116150
+BMW,M6,2017,557.3333333,4.4,8,AM7,Z,rear wheel drive,2,Midsize,Convertible,14.7,116150
+BMW,M6,2017,557.3333333,4.4,8,M6,Z,rear wheel drive,2,Midsize,Convertible,13.8,116150
+BMW,M6 GRAN COUPE,2017,557.3333333,4.4,8,AM7,Z,rear wheel drive,4,Large,Sedan,14.7,116800
+BMW,M6 GRAN COUPE,2017,557.3333333,4.4,8,M6,Z,rear wheel drive,4,Large,Sedan,13.8,116800
+BMW,M6 GRAN COUPE,2017,557.3333333,4.4,8,M6,Z,rear wheel drive,4,Large,Sedan,13.7,116800
+BMW,M6 GRAN COUPE,2017,557.3333333,4.4,8,AM7,Z,rear wheel drive,4,Large,Sedan,14.7,116800
+BMW,M6 GRAN COUPE,2017,557.3333333,4.4,8,M6,Z,rear wheel drive,4,Large,Sedan,13.7,116800
+BMW,M6 GRAN COUPE,2017,557.3333333,4.4,8,AM7,Z,rear wheel drive,4,Large,Sedan,14.7,116800
+BMW,M6 GRAN COUPE,2017,557.3333333,4.4,8,M6,Z,rear wheel drive,4,Large,Sedan,13.8,116800
+BMW,M6 GRAN COUPE,2017,557.3333333,4.4,8,AM7,Z,rear wheel drive,4,Large,Sedan,14.7,116800
+BMW,M6 Gran Coupe,2017,557.3333333,4.4,8,AM7,Z,rear wheel drive,4,Large,Sedan,14.7,116800
+BMW,X5 M,2017,567,4.4,8,AS8,Z,all wheel drive,4,Midsize,4dr SUV,14.6,98766.66667
+BMW,X5 M,2017,567,4.4,8,AS8,Z,all wheel drive,4,Midsize,4dr SUV,14.6,98766.66667
+BMW,X5 M,2017,567,4.4,8,AS8,Z,all wheel drive,4,Midsize,4dr SUV,14.6,98766.66667
+BMW,X6 M,2017,567,4.4,8,A6,Z,all wheel drive,4,Midsize,4dr SUV,16.1,102166.6667
+BMW,X6 M,2017,567,4.4,8,AS8,Z,all wheel drive,4,Midsize,4dr SUV,14.6,102166.6667
+BMW,X6 M,2017,567,4.4,8,AS8,Z,all wheel drive,4,Midsize,4dr SUV,14.6,102166.6667
+BMW,X6 M,2017,567,4.4,8,AS8,Z,all wheel drive,4,Midsize,4dr SUV,14.6,102166.6667
+BUICK,ENCLAVE,2017,288,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,12.3,45054.66667
+BUICK,ENCLAVE,2017,288,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,12.3,45054.66667
+BUICK,ENCLAVE,2017,288,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,13.4,45054.66667
+BUICK,ENCLAVE,2017,288,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,13.4,45054.66667
+BUICK,ENCLAVE,2017,288,3.6,6,AS9,X,front wheel drive,4,Midsize,4dr SUV,11.2,45054.66667
+BUICK,ENCORE,2017,139.0714286,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.5,27877.5
+BUICK,ENCORE,2017,139.0714286,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.5,27877.5
+BUICK,ENCORE,2017,139.0714286,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.3,27877.5
+BUICK,Enclave,2017,288,3.6,6,A9,X,front wheel drive,4,Midsize,4dr SUV,11.2,45054.66667
+BUICK,Encore,2017,139.0714286,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.7,27877.5
+BUICK,LACROSSE,2017,293.3,3.6,6,AS6,X,front wheel drive,4,Large,Sedan,11.5,37077
+BUICK,LACROSSE,2017,293.3,3.6,6,AS6,E,front wheel drive,4,Large,Sedan,15.6,37077
+BUICK,LACROSSE,2017,293.3,3.6,6,AS6,X,front wheel drive,4,Large,Sedan,11.4,37077
+BUICK,LACROSSE,2017,293.3,3.6,6,AS6,E,front wheel drive,4,Large,Sedan,15.8,37077
+BUICK,LACROSSE,2017,293.3,3.6,6,AS8,X,front wheel drive,4,Large,Sedan,9.5,37077
+BUICK,LACROSSE,2017,293.3,3.6,6,AS9,X,front wheel drive,4,Large,Sedan,9.7,37077
+BUICK,LaCrosse,2017,293.3,3.6,6,AS9,X,front wheel drive,4,Large,Sedan,9.9,37077
+BUICK,REGAL,2017,249.9411765,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.9,31872.05882
+BUICK,REGAL,2017,249.9411765,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.8,31872.05882
+BUICK,REGAL,2017,249.9411765,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.8,31872.05882
+BUICK,REGAL,2017,249.9411765,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.8,31872.05882
+BUICK,REGAL,2017,249.9411765,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.8,31872.05882
+BUICK,REGAL,2017,249.9411765,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.8,31872.05882
+BUICK,REGAL,2017,249.9411765,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.9,31872.05882
+BUICK,REGAL,2017,249.9411765,2,4,AS9,Z,front wheel drive,4,Midsize,Sedan,9.2,31872.05882
+BUICK,Regal,2017,249.9411765,2,4,AS9,Z,front wheel drive,4,Midsize,Sedan,9.1,31872.05882
+BUICK,Regal,2017,249.9411765,2,4,AS9,Z,front wheel drive,4,Midsize,Sedan,9,31872.05882
+BUICK,VERANO,2017,190,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.9,24694.64286
+BUICK,VERANO,2017,190,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.8,24694.64286
+BUICK,VERANO,2017,190,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.5,24694.64286
+BUICK,VERANO,2017,190,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.8,24694.64286
+BUICK,VERANO,2017,190,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.8,24694.64286
+BUICK,VERANO,2017,190,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.4,24694.64286
+BUICK,VERANO,2017,190,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.8,24694.64286
+BUICK,VERANO,2017,190,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.8,24694.64286
+BUICK,VERANO,2017,190,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.6,24694.64286
+BUICK,VERANO,2017,190,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.7,24694.64286
+CADILLAC,ATS,2017,286.8974359,2,4,AS6,Z,rear wheel drive,4,Midsize,Sedan,9.6,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,M6,Z,rear wheel drive,4,Midsize,Sedan,10.2,42111.15385
+CADILLAC,ATS,2017,286.8974359,2.5,4,AS6,X,rear wheel drive,4,Midsize,Sedan,9,42111.15385
+CADILLAC,ATS,2017,286.8974359,3.6,6,AS6,X,rear wheel drive,4,Midsize,Sedan,10.9,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,AS6,Z,rear wheel drive,4,Midsize,Sedan,9.7,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,M6,Z,rear wheel drive,4,Midsize,Sedan,10.3,42111.15385
+CADILLAC,ATS,2017,286.8974359,2.5,4,AS6,X,rear wheel drive,4,Midsize,Sedan,9.3,42111.15385
+CADILLAC,ATS,2017,286.8974359,3.6,6,AS6,X,rear wheel drive,4,Midsize,Sedan,10.8,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,AS8,Z,rear wheel drive,4,Midsize,Sedan,9.2,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,M6,Z,rear wheel drive,4,Midsize,Sedan,10.3,42111.15385
+CADILLAC,ATS,2017,286.8974359,2.5,4,AS8,X,rear wheel drive,4,Midsize,Sedan,9.1,42111.15385
+CADILLAC,ATS,2017,286.8974359,3.6,6,AS8,X,rear wheel drive,4,Midsize,Sedan,9.9,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,AS8,Z,rear wheel drive,4,Midsize,Sedan,9.3,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,M6,Z,rear wheel drive,4,Midsize,Sedan,10.1,42111.15385
+CADILLAC,ATS,2017,286.8974359,2.5,4,AS8,X,rear wheel drive,4,Midsize,Sedan,9.2,42111.15385
+CADILLAC,ATS,2017,286.8974359,3.6,6,AS8,X,rear wheel drive,4,Midsize,Sedan,10,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,AS8,Z,rear wheel drive,4,Midsize,Sedan,9.2,42111.15385
+CADILLAC,ATS,2017,286.8974359,2,4,M6,Z,rear wheel drive,4,Midsize,Sedan,10.3,42111.15385
+CADILLAC,ATS-V,2017,464,3.6,6,AS8,Z,rear wheel drive,3,Compact,Coupe,12.5,61680
+CADILLAC,ATS-V,2017,464,3.6,6,M6,Z,rear wheel drive,3,Compact,Coupe,12.4,61680
+CADILLAC,ATS-V,2017,464,3.6,6,AS8,Z,rear wheel drive,3,Compact,Coupe,11.9,61680
+CADILLAC,ATS-V,2017,464,3.6,6,M6,Z,rear wheel drive,3,Compact,Coupe,12.6,61680
+CADILLAC,ATS-V,2017,464,3.6,6,AS8,Z,rear wheel drive,3,Compact,Coupe,11.9,61680
+CADILLAC,CT6,2017,342.4444444,2,4,AS8,Z,all wheel drive,4,Large,Sedan,9.5,66033.33333
+CADILLAC,CT6,2017,342.4444444,2,4,AS8,Z,all wheel drive,4,Large,Sedan,9.5,66033.33333
+CADILLAC,CT6,2017,342.4444444,2,4,AS8,Z,all wheel drive,4,Large,Sedan,9.5,66033.33333
+CADILLAC,CTS,2017,314,2,4,AS6,Z,rear wheel drive,4,Large,Sedan,9.9,56959.7619
+CADILLAC,CTS,2017,314,3.6,6,AS8,X,rear wheel drive,4,Large,Sedan,10.7,56959.7619
+CADILLAC,CTS,2017,314,2,4,AS8,Z,rear wheel drive,4,Large,Sedan,9.5,56959.7619
+CADILLAC,CTS,2017,314,3.6,6,AS8,X,rear wheel drive,4,Large,Sedan,9.9,56959.7619
+CADILLAC,CTS,2017,314,2,4,AS8,Z,rear wheel drive,4,Large,Sedan,9.5,56959.7619
+CADILLAC,CTS,2017,314,3.6,6,AS8,X,rear wheel drive,4,Large,Sedan,10,56959.7619
+CADILLAC,CTS,2017,314,2,4,AS8,Z,rear wheel drive,4,Large,Sedan,9.5,56959.7619
+CADILLAC,CTS,2017,314,2,4,AS8,Z,rear wheel drive,4,Large,Sedan,9.5,56959.7619
+CADILLAC,CTS,2017,314,3.6,6,AS8,X,rear wheel drive,4,Large,Sedan,10.5,56959.7619
+CADILLAC,CTS COUPE,2014,318,3.6,6,AS6,X,all wheel drive,2,Midsize,Coupe,11.2,44645
+CADILLAC,CTS-V,2017,612,6.2,8,AS8,Z,rear wheel drive,4,Large,Sedan,14.1,77863.33333
+CADILLAC,CTS-V,2017,612,6.2,8,AS8,Z,rear wheel drive,4,Large,Sedan,14,77863.33333
+CADILLAC,CTS-V,2017,612,6.2,8,AS8,Z,rear wheel drive,4,Large,Sedan,14.3,77863.33333
+CADILLAC,CTS-V COUPE,2015,556,6.2,8,AS6,Z,rear wheel drive,2,Midsize,Coupe,16.6,65571.66667
+CADILLAC,CTS-V COUPE,2015,556,6.2,8,M6,Z,rear wheel drive,2,Midsize,Coupe,14.8,65571.66667
+CADILLAC,SRX,2016,308,3.6,6,AS6,X,front wheel drive,4,Midsize,4dr SUV,12.3,45903.80952
+CADILLAC,SRX,2016,308,3.6,6,AS6,X,front wheel drive,4,Midsize,4dr SUV,12.3,45903.80952
+CADILLAC,SRX,2016,308,3.6,6,AS6,X,front wheel drive,4,Midsize,4dr SUV,12.3,45903.80952
+CADILLAC,XT5,2017,310,3.6,6,AS8,X,all wheel drive,4,Midsize,4dr SUV,10.5,50010.83333
+CADILLAC,XT5,2017,310,3.6,6,AS8,X,all wheel drive,4,Midsize,4dr SUV,10.6,50010.83333
+CADILLAC,XT5,2017,310,2,4,AS9,Z,all wheel drive,4,Midsize,4dr SUV,9.8,50010.83333
+CADILLAC,XTS,2017,327.5555556,3.6,6,AS6,X,all wheel drive,4,Large,Sedan,11.4,58115.55556
+CADILLAC,XTS,2017,327.5555556,3.6,6,AS6,X,all wheel drive,4,Large,Sedan,11.3,58115.55556
+CADILLAC,XTS,2017,327.5555556,3.6,6,AS6,X,all wheel drive,4,Large,Sedan,11.3,58115.55556
+CADILLAC,XTS,2017,327.5555556,3.6,6,AS6,X,all wheel drive,4,Large,Sedan,11.1,58115.55556
+CADILLAC,XTS,2017,327.5555556,3.6,6,AS6,X,all wheel drive,4,Large,Sedan,11,58115.55556
+CHEVROLET,Blazer,2005,190,2.5,4,A9,X,rear wheel drive,2.857142857,Compact,2dr SUV,9.9,24151.42857
+CHEVROLET,Blazer,2005,190,3.6,6,A9,X,rear wheel drive,2.857142857,Compact,2dr SUV,10.6,24151.42857
+CHEVROLET,Blazer,2005,190,2,4,A9,X,rear wheel drive,2.857142857,Compact,2dr SUV,9.8,24151.42857
+CHEVROLET,Blazer,2005,190,2.5,4,A9,X,rear wheel drive,2.857142857,Compact,2dr SUV,10.2,24151.42857
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,AS6,X,rear wheel drive,2,Midsize,Coupe,11.2,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.7,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,AS6,X,rear wheel drive,2,Midsize,Coupe,11.3,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.5,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,6.2,8,AS6,Z,rear wheel drive,2,Midsize,Coupe,12.8,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,6.2,8,M6,Z,rear wheel drive,2,Midsize,Coupe,12.7,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,2,4,AS8,Z,rear wheel drive,2,Midsize,Coupe,9.3,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,2,4,M6,Z,rear wheel drive,2,Midsize,Coupe,9.8,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,AS8,X,rear wheel drive,2,Midsize,Coupe,10.6,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.2,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,2,4,AS8,Z,rear wheel drive,2,Midsize,Coupe,9.5,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,2,4,M6,Z,rear wheel drive,2,Midsize,Coupe,10.1,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,AS8,X,rear wheel drive,2,Midsize,Coupe,10.6,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.7,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,2,4,AS8,Z,rear wheel drive,2,Midsize,Coupe,9.4,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,2,4,M6,Z,rear wheel drive,2,Midsize,Coupe,10.1,38991.66667
+CHEVROLET,CAMARO,2017,393.8484848,3.6,6,AS8,X,rear wheel drive,2,Midsize,Coupe,10.4,38991.66667
+CHEVROLET,CITY EXPRESS,2017,131,2,4,AV,X,front wheel drive,4,Compact,Cargo Minivan,9.4,22810
+CHEVROLET,CITY EXPRESS,2017,131,2,4,AV,X,front wheel drive,4,Compact,Cargo Minivan,9.4,22810
+CHEVROLET,CITY EXPRESS,2017,131,2,4,AV,X,front wheel drive,4,Compact,Cargo Minivan,9.4,22810
+CHEVROLET,CITY EXPRESS,2017,131,2,4,AV,X,front wheel drive,4,Compact,Cargo Minivan,9.3,22810
+CHEVROLET,COLORADO,2016,240.0925926,2.5,4,A6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.5,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.5,4,M6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.8,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,3.6,6,A6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,11.3,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.5,4,A6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.5,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.5,4,M6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.8,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.8,4,A6,D,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,9.4,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,3.6,6,A6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,11.3,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.5,4,A6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.7,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.5,4,M6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.9,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.8,4,A6,D,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,9.5,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,3.6,6,A8,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,11.7,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.5,4,A6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.8,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.5,4,M6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.7,27664.72222
+CHEVROLET,COLORADO,2016,240.0925926,2.8,4,A6,D,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,9.6,27664.72222
+CHEVROLET,CORVETTE,2017,515.5,6.2,8,AS6,Z,rear wheel drive,2,Compact,Convertible,12,71505.33333
+CHEVROLET,CORVETTE,2017,515.5,6.2,8,M7,Z,rear wheel drive,2,Compact,Convertible,11.2,71505.33333
+CHEVROLET,CORVETTE,2017,515.5,6.2,8,AS8,Z,rear wheel drive,2,Compact,Convertible,11.7,71505.33333
+CHEVROLET,CORVETTE,2017,515.5,6.2,8,AS8,Z,rear wheel drive,2,Compact,Convertible,11.7,71505.33333
+CHEVROLET,CORVETTE,2017,515.5,6.2,8,M7,Z,rear wheel drive,2,Compact,Convertible,11.2,71505.33333
+CHEVROLET,CORVETTE,2017,515.5,6.2,8,AS8,Z,rear wheel drive,2,Compact,Convertible,12.4,71505.33333
+CHEVROLET,CORVETTE,2017,515.5,6.2,8,M7,Z,rear wheel drive,2,Compact,Convertible,11.9,71505.33333
+CHEVROLET,CORVETTE,2017,515.5,6.2,8,AS8,Z,rear wheel drive,2,Compact,Convertible,12.7,71505.33333
+CHEVROLET,CRUZE,2017,147.4,1.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,7.8,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.4,4,M6,X,front wheel drive,4,Midsize,Sedan,7.8,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.8,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.8,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,8.2,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.4,4,M6,X,front wheel drive,4,Midsize,Sedan,7.8,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.8,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.8,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,8.1,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,6.8,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.4,4,M6,X,front wheel drive,4,Midsize,Sedan,7.1,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,7,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.4,4,M6,X,front wheel drive,4,Midsize,Sedan,7.3,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,7.1,20469.4
+CHEVROLET,CRUZE,2017,147.4,1.4,4,M6,X,front wheel drive,4,Midsize,Sedan,7.4,20469.4
+CHEVROLET,CRUZE LIMITED,2016,138,1.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,7.8,20188.88889
+CHEVROLET,CRUZE LIMITED,2016,138,1.4,4,M6,X,front wheel drive,4,Midsize,Sedan,7.8,20188.88889
+CHEVROLET,CRUZE LIMITED,2016,138,1.8,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.8,20188.88889
+CHEVROLET,CRUZE LIMITED,2016,138,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,8.1,20188.88889
+CHEVROLET,Camaro,2017,393.8484848,2,4,AS8,Z,rear wheel drive,2,Midsize,Coupe,9.4,38991.66667
+CHEVROLET,Camaro,2017,393.8484848,2,4,M6,Z,rear wheel drive,2,Midsize,Coupe,10.1,38991.66667
+CHEVROLET,Camaro,2017,393.8484848,3.6,6,AS8,X,rear wheel drive,2,Midsize,Coupe,10.4,38991.66667
+CHEVROLET,Camaro,2017,393.8484848,3.6,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.8,38991.66667
+CHEVROLET,Camaro,2017,393.8484848,2,4,AS8,Z,rear wheel drive,2,Midsize,Coupe,9.4,38991.66667
+CHEVROLET,Camaro,2017,393.8484848,3.6,6,AS10,X,rear wheel drive,2,Midsize,Coupe,10.5,38991.66667
+CHEVROLET,Camaro,2017,393.8484848,3.6,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.9,38991.66667
+CHEVROLET,Colorado,2016,240.0925926,2.5,4,A6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.8,27664.72222
+CHEVROLET,Colorado,2016,240.0925926,2.5,4,M6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.7,27664.72222
+CHEVROLET,Colorado,2016,240.0925926,2.8,4,A6,D,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.1,27664.72222
+CHEVROLET,Colorado,2016,240.0925926,3.6,6,A8,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,11.7,27664.72222
+CHEVROLET,Colorado,2016,240.0925926,2.5,4,A6,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,10.8,27664.72222
+CHEVROLET,Colorado,2016,240.0925926,3.6,6,A8,X,rear wheel drive,3.851851852,Compact,Crew Cab Pickup,11.7,27664.72222
+CHEVROLET,Corvette,2017,515.5,6.2,8,AS8,Z,rear wheel drive,2,Compact,Convertible,12.7,71505.33333
+CHEVROLET,Corvette,2017,515.5,6.2,8,M7,Z,rear wheel drive,2,Compact,Convertible,12.2,71505.33333
+CHEVROLET,Corvette,2017,515.5,6.2,8,AS8,Z,rear wheel drive,2,Compact,Convertible,12.4,71505.33333
+CHEVROLET,Cruze,2017,147.4,1.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,7.3,20469.4
+CHEVROLET,EQUINOX,2017,182,2.4,4,A6,X,front wheel drive,4,Compact,4dr SUV,9.1,27577.3913
+CHEVROLET,EQUINOX,2017,182,3.6,6,A6,X,front wheel drive,4,Compact,4dr SUV,12,27577.3913
+CHEVROLET,EQUINOX,2017,182,3.6,6,A6,E,front wheel drive,4,Compact,4dr SUV,16.2,27577.3913
+CHEVROLET,EQUINOX,2017,182,3.6,6,A6,X,front wheel drive,4,Compact,4dr SUV,12.1,27577.3913
+CHEVROLET,EQUINOX,2017,182,2.4,4,A6,X,front wheel drive,4,Compact,4dr SUV,9.1,27577.3913
+CHEVROLET,EQUINOX,2017,182,3.6,6,A6,X,front wheel drive,4,Compact,4dr SUV,12.1,27577.3913
+CHEVROLET,EQUINOX,2017,182,2.4,4,A6,X,front wheel drive,4,Compact,4dr SUV,9.4,27577.3913
+CHEVROLET,EQUINOX,2017,182,3.6,6,A6,X,front wheel drive,4,Compact,4dr SUV,12.1,27577.3913
+CHEVROLET,EQUINOX,2017,182,1.5,4,A6,X,front wheel drive,4,Compact,4dr SUV,8.3,27577.3913
+CHEVROLET,EQUINOX,2017,182,1.6,4,A6,D,front wheel drive,4,Compact,4dr SUV,7.4,27577.3913
+CHEVROLET,Equinox,2017,182,1.5,4,A6,X,front wheel drive,4,Compact,4dr SUV,8.3,27577.3913
+CHEVROLET,Equinox,2017,182,1.6,4,A6,D,front wheel drive,4,Compact,4dr SUV,7.4,27577.3913
+CHEVROLET,Equinox,2017,182,1.5,4,A6,X,front wheel drive,4,Compact,4dr SUV,8.4,27577.3913
+CHEVROLET,IMPALA,2017,240.8333333,2.5,4,AS6,X,front wheel drive,4,Large,Sedan,9.6,33558.61111
+CHEVROLET,IMPALA,2017,240.8333333,3.6,6,AS6,X,front wheel drive,4,Large,Sedan,10.6,33558.61111
+CHEVROLET,IMPALA,2017,240.8333333,3.6,6,AS6,E,front wheel drive,4,Large,Sedan,14.3,33558.61111
+CHEVROLET,IMPALA,2017,240.8333333,2.5,4,AS6,X,front wheel drive,4,Large,Sedan,9.2,33558.61111
+CHEVROLET,IMPALA,2017,240.8333333,3.6,6,AS6,X,front wheel drive,4,Large,Sedan,10.6,33558.61111
+CHEVROLET,IMPALA,2017,240.8333333,3.6,6,AS6,E,front wheel drive,4,Large,Sedan,14.5,33558.61111
+CHEVROLET,IMPALA,2017,240.8333333,2.5,4,AS6,X,front wheel drive,4,Large,Sedan,9.2,33558.61111
+CHEVROLET,IMPALA,2017,240.8333333,2.5,4,AS6,X,front wheel drive,4,Large,Sedan,9.5,33558.61111
+CHEVROLET,Impala,2017,240.8333333,2.5,4,AS6,X,front wheel drive,4,Large,Sedan,9.6,33558.61111
+CHEVROLET,Impala,2017,240.8333333,3.6,6,AS6,X,front wheel drive,4,Large,Sedan,10.8,33558.61111
+CHEVROLET,Impala,2017,240.8333333,3.6,6,AS6,E,front wheel drive,4,Large,Sedan,14.6,33558.61111
+CHEVROLET,Impala,2017,240.8333333,3.6,6,AS6,X,front wheel drive,4,Large,Sedan,10.9,33558.61111
+CHEVROLET,Impala,2017,240.8333333,3.6,6,AS6,E,front wheel drive,4,Large,Sedan,14.7,33558.61111
+CHEVROLET,MALIBU,2017,196.4210526,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.9,25704.73684
+CHEVROLET,MALIBU,2017,196.4210526,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8,25704.73684
+CHEVROLET,MALIBU,2017,196.4210526,2,4,AS6,Z,front wheel drive,4,Midsize,Sedan,9.8,25704.73684
+CHEVROLET,MALIBU,2017,196.4210526,1.5,4,A6,X,front wheel drive,4,Midsize,Sedan,7.6,25704.73684
+CHEVROLET,MALIBU,2017,196.4210526,2,4,AS8,Z,front wheel drive,4,Midsize,Sedan,9,25704.73684
+CHEVROLET,MALIBU,2017,196.4210526,1.5,4,A6,X,front wheel drive,4,Midsize,Sedan,7.8,25704.73684
+CHEVROLET,MALIBU,2017,196.4210526,2,4,A9,Z,front wheel drive,4,Midsize,Sedan,9.1,25704.73684
+CHEVROLET,MALIBU,2017,196.4210526,1.5,4,A6,X,front wheel drive,4,Midsize,Sedan,7.8,25704.73684
+CHEVROLET,MALIBU,2017,196.4210526,2,4,A9,Z,front wheel drive,4,Midsize,Sedan,9.1,25704.73684
+CHEVROLET,MALIBU HYBRID,2010,164,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,5.1,25040
+CHEVROLET,MALIBU HYBRID,2010,164,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,5.1,25040
+CHEVROLET,MALIBU LIMITED,2016,197,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.6,24346.25
+CHEVROLET,Malibu,2017,196.4210526,1.5,4,AV,X,front wheel drive,4,Midsize,Sedan,7.5,25704.73684
+CHEVROLET,Malibu,2017,196.4210526,2,4,A9,Z,front wheel drive,4,Midsize,Sedan,9.1,25704.73684
+CHEVROLET,Malibu,2017,196.4210526,1.5,4,AV,X,front wheel drive,4,Midsize,Sedan,7.5,25704.73684
+CHEVROLET,Malibu Hybrid,2010,164,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,5.1,25040
+CHEVROLET,SONIC,2017,138,1.4,4,AS6,X,front wheel drive,4,Compact,Sedan,8,18167.5
+CHEVROLET,SONIC,2017,138,1.4,4,M6,X,front wheel drive,4,Compact,Sedan,7.5,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,AS6,X,front wheel drive,4,Compact,Sedan,8.3,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,M5,X,front wheel drive,4,Compact,Sedan,7.9,18167.5
+CHEVROLET,SONIC,2017,138,1.4,4,AS6,X,front wheel drive,4,Compact,Sedan,8,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,AS6,X,front wheel drive,4,Compact,Sedan,8.3,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,M5,X,front wheel drive,4,Compact,Sedan,8,18167.5
+CHEVROLET,SONIC,2017,138,1.4,4,AS6,X,front wheel drive,4,Compact,Sedan,8,18167.5
+CHEVROLET,SONIC,2017,138,1.4,4,M6,X,front wheel drive,4,Compact,Sedan,7.5,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,AS6,X,front wheel drive,4,Compact,Sedan,8.3,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,M5,X,front wheel drive,4,Compact,Sedan,8,18167.5
+CHEVROLET,SONIC,2017,138,1.4,4,AS6,X,front wheel drive,4,Compact,Sedan,7.8,18167.5
+CHEVROLET,SONIC,2017,138,1.4,4,M6,X,front wheel drive,4,Compact,Sedan,7.4,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,AS6,X,front wheel drive,4,Compact,Sedan,8.4,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,M5,X,front wheel drive,4,Compact,Sedan,8.3,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,AS6,X,front wheel drive,4,Compact,Sedan,8.3,18167.5
+CHEVROLET,SONIC,2017,138,1.8,4,M5,X,front wheel drive,4,Compact,Sedan,8.1,18167.5
+CHEVROLET,SPARK,2017,93.33333333,1.2,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.9,14940
+CHEVROLET,SPARK,2017,93.33333333,1.2,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,6.9,14940
+CHEVROLET,SPARK,2017,93.33333333,1.2,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,7,14940
+CHEVROLET,SPARK,2017,93.33333333,1.2,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,6.8,14940
+CHEVROLET,SPARK,2017,93.33333333,1.4,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.7,14940
+CHEVROLET,SPARK,2017,93.33333333,1.4,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,6.9,14940
+CHEVROLET,SPARK,2017,93.33333333,1.4,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,7.1,14940
+CHEVROLET,SPARK,2017,93.33333333,1.4,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.2,14940
+CHEVROLET,SPARK,2017,93.33333333,1.4,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.1,14940
+CHEVROLET,SUBURBAN,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13.8,57672.22222
+CHEVROLET,SUBURBAN,2017,355,5.3,8,A6,E,four wheel drive,4,Large,4dr SUV,18.4,57672.22222
+CHEVROLET,SUBURBAN,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,12.7,57672.22222
+CHEVROLET,SUBURBAN,2017,355,5.3,8,A6,E,four wheel drive,4,Large,4dr SUV,17.2,57672.22222
+CHEVROLET,SUBURBAN,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13,57672.22222
+CHEVROLET,SUBURBAN,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13,57672.22222
+CHEVROLET,Spark,2017,93.33333333,1.4,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,7.1,14940
+CHEVROLET,Spark,2017,93.33333333,1.4,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.2,14940
+CHEVROLET,Suburban,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13.4,57672.22222
+CHEVROLET,TAHOE,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13.8,54972.22222
+CHEVROLET,TAHOE,2017,355,5.3,8,A6,E,four wheel drive,4,Large,4dr SUV,18.4,54972.22222
+CHEVROLET,TAHOE,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,12.7,54972.22222
+CHEVROLET,TAHOE,2017,355,5.3,8,A6,E,four wheel drive,4,Large,4dr SUV,17.2,54972.22222
+CHEVROLET,TAHOE,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13,54972.22222
+CHEVROLET,TAHOE,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13,54972.22222
+CHEVROLET,TRAVERSE,2017,282.6153846,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,12.3,36282.69231
+CHEVROLET,TRAVERSE,2017,282.6153846,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,12.3,36282.69231
+CHEVROLET,TRAVERSE,2017,282.6153846,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,13.4,36282.69231
+CHEVROLET,TRAVERSE,2017,282.6153846,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,13.4,36282.69231
+CHEVROLET,TRAVERSE,2017,282.6153846,2,4,A9,Z,front wheel drive,4,Midsize,4dr SUV,10.5,36282.69231
+CHEVROLET,TRAVERSE,2017,282.6153846,3.6,6,AS9,X,front wheel drive,4,Midsize,4dr SUV,11,36282.69231
+CHEVROLET,TRAX,2017,138,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.4,23123.63636
+CHEVROLET,TRAX,2017,138,1.4,4,M6,X,all wheel drive,4,Compact,4dr SUV,8.1,23123.63636
+CHEVROLET,TRAX,2017,138,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.2,23123.63636
+CHEVROLET,TRAX,2017,138,1.4,4,M6,X,all wheel drive,4,Compact,4dr SUV,8.1,23123.63636
+CHEVROLET,TRAX,2017,138,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.2,23123.63636
+CHEVROLET,TRAX,2017,138,1.4,4,M6,X,all wheel drive,4,Compact,4dr SUV,8.1,23123.63636
+CHEVROLET,TRAX,2017,138,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.3,23123.63636
+CHEVROLET,TRAX,2017,138,1.4,4,M6,X,all wheel drive,4,Compact,4dr SUV,8.2,23123.63636
+CHEVROLET,Tahoe,2017,355,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13.4,54972.22222
+CHEVROLET,Traverse,2017,282.6153846,3.6,6,A9,X,front wheel drive,4,Midsize,4dr SUV,11.1,36282.69231
+CHEVROLET,Trax,2017,138,1.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,8.4,23123.63636
+CHEVROLET,Trax,2017,138,1.4,4,M6,X,all wheel drive,4,Compact,4dr SUV,8.3,23123.63636
+CHRYSLER,200,2017,217.7826087,2.4,4,A9,X,front wheel drive,4,Midsize,Sedan,8.5,26582.17391
+CHRYSLER,200,2017,217.7826087,3.6,6,A9,X,front wheel drive,4,Midsize,Sedan,10.2,26582.17391
+CHRYSLER,300,2017,294.6666667,3.6,6,A8,X,all wheel drive,4,Large,Sedan,10.3,38134.33333
+CHRYSLER,300,2017,294.6666667,3.6,6,A8,X,all wheel drive,4,Large,Sedan,10.3,38134.33333
+CHRYSLER,300,2017,294.6666667,3.6,6,A8,X,all wheel drive,4,Large,Sedan,10.3,38134.33333
+CHRYSLER,300,2017,294.6666667,5.7,8,A8,X,all wheel drive,4,Large,Sedan,12.3,38134.33333
+CHRYSLER,PACIFICA,2017,257.3529412,3.6,6,A9,X,front wheel drive,4,Large,Wagon,10.9,31424.41176
+CHRYSLER,PACIFICA,2017,257.3529412,3.6,6,A9,X,front wheel drive,4,Large,Wagon,10.9,31424.41176
+CHRYSLER,Pacifica,2017,257.3529412,3.6,6,A9,X,front wheel drive,4,Large,Wagon,10.9,31424.41176
+DODGE,AVENGER,2014,217,2.4,4,A4,X,front wheel drive,4,Midsize,Sedan,9.8,22825
+DODGE,AVENGER,2014,217,2.4,4,A6,X,front wheel drive,4,Midsize,Sedan,10,22825
+DODGE,CHALLENGER,2017,425.7878788,3.6,6,A5,X,rear wheel drive,2,Large,Coupe,11.2,39230.45455
+DODGE,CHALLENGER,2017,425.7878788,5.7,8,M6,X,rear wheel drive,2,Large,Coupe,13.1,39230.45455
+DODGE,CHALLENGER,2017,425.7878788,3.6,6,A8,X,rear wheel drive,2,Large,Coupe,10.3,39230.45455
+DODGE,CHALLENGER,2017,425.7878788,6.4,8,M6,Z,rear wheel drive,2,Large,Coupe,13.9,39230.45455
+DODGE,CHALLENGER,2017,425.7878788,3.6,6,A8,X,rear wheel drive,2,Large,Coupe,10.3,39230.45455
+DODGE,CHALLENGER,2017,425.7878788,5.7,8,M6,X,rear wheel drive,2,Large,Coupe,13.1,39230.45455
+DODGE,CHALLENGER,2017,425.7878788,6.4,8,M6,Z,rear wheel drive,2,Large,Coupe,13.9,39230.45455
+DODGE,CHALLENGER,2017,425.7878788,5.7,8,M6,Z,rear wheel drive,2,Large,Coupe,13.1,39230.45455
+DODGE,CHALLENGER,2017,425.7878788,6.4,8,M6,Z,rear wheel drive,2,Large,Coupe,13.9,39230.45455
+DODGE,CHARGER,2017,401.4285714,3.6,6,A5,X,rear wheel drive,4,Large,Sedan,11.2,38835.71429
+DODGE,CHARGER,2017,401.4285714,3.6,6,A8,X,rear wheel drive,4,Large,Sedan,10.3,38835.71429
+DODGE,CHARGER,2017,401.4285714,3.6,6,A5,X,rear wheel drive,4,Large,Sedan,11.5,38835.71429
+DODGE,CHARGER,2017,401.4285714,3.6,6,A5,X,rear wheel drive,4,Large,Sedan,11.5,38835.71429
+DODGE,CHARGER,2017,401.4285714,3.6,6,A8,X,rear wheel drive,4,Large,Sedan,10.3,38835.71429
+DODGE,CHARGER,2017,401.4285714,3.6,6,A5,X,rear wheel drive,4,Large,Sedan,11.6,38835.71429
+DODGE,CHARGER,2017,401.4285714,3.6,6,A8,X,rear wheel drive,4,Large,Sedan,10.3,38835.71429
+DODGE,Challenger,2017,425.7878788,3.6,6,A8,X,rear wheel drive,2,Large,Coupe,10.3,39230.45455
+DODGE,Challenger,2017,425.7878788,5.7,8,M6,Z,rear wheel drive,2,Large,Coupe,13.1,39230.45455
+DODGE,Challenger,2017,425.7878788,6.4,8,M6,Z,rear wheel drive,2,Large,Coupe,13.9,39230.45455
+DODGE,Charger,2017,401.4285714,3.6,6,A5,X,rear wheel drive,4,Large,Sedan,11.6,38835.71429
+DODGE,Charger,2017,401.4285714,3.6,6,A8,X,rear wheel drive,4,Large,Sedan,10.3,38835.71429
+DODGE,DART,2016,172.5714286,2,4,M6,X,front wheel drive,4,Midsize,Sedan,8.1,20150
+DODGE,DART,2016,172.5714286,2.4,4,A6,X,front wheel drive,4,Midsize,Sedan,8.6,20150
+DODGE,DART,2016,172.5714286,2.4,4,M6,X,front wheel drive,4,Midsize,Sedan,8.8,20150
+DODGE,DART,2016,172.5714286,2,4,M6,X,front wheel drive,4,Midsize,Sedan,8.1,20150
+DODGE,DART,2016,172.5714286,2.4,4,A6,X,front wheel drive,4,Midsize,Sedan,8.6,20150
+DODGE,DART,2016,172.5714286,2.4,4,M6,X,front wheel drive,4,Midsize,Sedan,8.8,20150
+DODGE,Grand Caravan,2017,283,3.6,6,A6,X,front wheel drive,4,Midsize,Passenger Minivan,11.8,27101.25
+DODGE,JOURNEY,2017,240.4193548,2.4,4,A4,X,front wheel drive,4,Midsize,4dr SUV,11.1,28165.96774
+DODGE,JOURNEY,2017,240.4193548,2.4,4,A4,X,front wheel drive,4,Midsize,4dr SUV,11.1,28165.96774
+DODGE,JOURNEY,2017,240.4193548,2.4,4,A4,X,front wheel drive,4,Midsize,4dr SUV,11.1,28165.96774
+DODGE,Journey,2017,240.4193548,2.4,4,A4,X,front wheel drive,4,Midsize,4dr SUV,11.1,28165.96774
+DODGE,VIPER,2017,645,8.4,10,M6,Z,rear wheel drive,2,Compact,Coupe,16.6,99709.28571
+FIAT,124 SPIDER,2017,160,1.4,4,A6,X,rear wheel drive,2,Compact,Convertible,8,26895
+FIAT,124 SPIDER,2017,160,1.4,4,M6,X,rear wheel drive,2,Compact,Convertible,7.9,26895
+FIAT,124 Spider,2017,160,1.4,4,A6,X,rear wheel drive,2,Compact,Convertible,8,26895
+FIAT,124 Spider,2017,160,1.4,4,M6,X,rear wheel drive,2,Compact,Convertible,7.9,26895
+FIAT,500,2017,116.0714286,1.4,4,A6,X,front wheel drive,2,Compact,2dr Hatchback,8.7,20449.82143
+FIAT,500,2017,116.0714286,1.4,4,M5,X,front wheel drive,2,Compact,2dr Hatchback,7.8,20449.82143
+FIAT,500,2017,116.0714286,1.4,4,A6,X,front wheel drive,2,Compact,2dr Hatchback,8.7,20449.82143
+FIAT,500,2017,116.0714286,1.4,4,M5,X,front wheel drive,2,Compact,2dr Hatchback,7.9,20449.82143
+FIAT,500L,2017,160,1.4,4,A6,X,front wheel drive,4,Compact,Wagon,9.4,22120.76923
+FIAT,500L,2017,160,1.4,4,AM6,X,front wheel drive,4,Compact,Wagon,8.7,22120.76923
+FIAT,500L,2017,160,1.4,4,M6,X,front wheel drive,4,Compact,Wagon,8.3,22120.76923
+FIAT,500L,2017,160,1.4,4,A6,X,front wheel drive,4,Compact,Wagon,9.4,22120.76923
+FIAT,500L,2017,160,1.4,4,AM6,X,front wheel drive,4,Compact,Wagon,8.7,22120.76923
+FIAT,500L,2017,160,1.4,4,M6,X,front wheel drive,4,Compact,Wagon,8.3,22120.76923
+FIAT,500L,2017,160,1.4,4,A6,X,front wheel drive,4,Compact,Wagon,9.4,22120.76923
+FIAT,500X,2017,177.3333333,1.4,4,M6,X,front wheel drive,4,Compact,4dr SUV,8.3,24620.33333
+FIAT,500X,2017,177.3333333,2.4,4,A9,X,front wheel drive,4,Compact,4dr SUV,9.3,24620.33333
+FIAT,500X,2017,177.3333333,1.4,4,M6,X,front wheel drive,4,Compact,4dr SUV,8.4,24620.33333
+FIAT,500X,2017,177.3333333,2.4,4,A9,X,front wheel drive,4,Compact,4dr SUV,9.3,24620.33333
+FIAT,500X,2017,177.3333333,2.4,4,A9,X,front wheel drive,4,Compact,4dr SUV,9.4,24620.33333
+FORD,C-MAX HYBRID,2017,188,2,4,AV,X,front wheel drive,4,Compact,Wagon,6,25653.33333
+FORD,C-MAX HYBRID,2017,188,2,4,AV,X,front wheel drive,4,Compact,Wagon,6,25653.33333
+FORD,C-MAX HYBRID,2017,188,2,4,AV,X,front wheel drive,4,Compact,Wagon,5.9,25653.33333
+FORD,EDGE,2017,257.7272727,2,4,A6,X,all wheel drive,4,Midsize,4dr SUV,9.8,34236.81818
+FORD,EDGE,2017,257.7272727,3.5,6,AS6,X,all wheel drive,4,Midsize,4dr SUV,10.8,34236.81818
+FORD,EDGE,2017,257.7272727,2,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,9.8,34236.81818
+FORD,EDGE,2017,257.7272727,3.5,6,AS6,X,all wheel drive,4,Midsize,4dr SUV,11.3,34236.81818
+FORD,EDGE,2017,257.7272727,2,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,9.8,34236.81818
+FORD,EDGE,2017,257.7272727,3.5,6,AS6,X,all wheel drive,4,Midsize,4dr SUV,11.4,34236.81818
+FORD,EDGE,2017,257.7272727,2,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,9.9,34236.81818
+FORD,EDGE,2017,257.7272727,3.5,6,AS6,X,all wheel drive,4,Midsize,4dr SUV,11.5,34236.81818
+FORD,ESCAPE,2017,175.2727273,1.6,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.1,27458.66667
+FORD,ESCAPE,2017,175.2727273,2,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.6,27458.66667
+FORD,ESCAPE,2017,175.2727273,2.5,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.4,27458.66667
+FORD,ESCAPE,2017,175.2727273,1.6,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9,27458.66667
+FORD,ESCAPE,2017,175.2727273,2.5,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.5,27458.66667
+FORD,ESCAPE,2017,175.2727273,1.6,4,AS6,X,front wheel drive,4,Compact,4dr SUV,8.9,27458.66667
+FORD,ESCAPE,2017,175.2727273,2,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.6,27458.66667
+FORD,ESCAPE,2017,175.2727273,2.5,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.4,27458.66667
+FORD,ESCAPE,2017,175.2727273,1.5,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.1,27458.66667
+FORD,ESCAPE,2017,175.2727273,2,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.5,27458.66667
+FORD,EXPLORER,2017,305.4347826,2,4,A6,X,all wheel drive,4,Midsize,4dr SUV,10.2,38451.30435
+FORD,EXPLORER,2017,305.4347826,2,4,A6,X,all wheel drive,4,Midsize,4dr SUV,10.4,38451.30435
+FORD,EXPLORER,2017,305.4347826,2.3,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,10.8,38451.30435
+FORD,EXPLORER,2017,305.4347826,2.3,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,10.8,38451.30435
+FORD,Edge,2017,257.7272727,2,4,AS8,X,all wheel drive,4,Midsize,4dr SUV,9.6,34236.81818
+FORD,Edge,2017,257.7272727,2,4,A8,X,all wheel drive,4,Midsize,4dr SUV,9.8,34236.81818
+FORD,Escape,2017,175.2727273,1.5,4,AS6,X,front wheel drive,4,Compact,4dr SUV,9.1,27458.66667
+FORD,Escape,2017,175.2727273,1.5,3,A8,X,front wheel drive,4,Compact,4dr SUV,7.9,27458.66667
+FORD,Escape Hybrid,2011,177,2.5,4,AV,X,all wheel drive,4,Compact,4dr SUV,5.8,32125
+FORD,F-150,2017,331.8730159,3.5,6,A6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,12.7,40747.04762
+FORD,F-150,2017,331.8730159,3.5,6,AS6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,12.8,40747.04762
+FORD,F-150,2017,331.8730159,6.2,8,AS6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,15.9,40747.04762
+FORD,F-150,2017,331.8730159,2.7,6,AS6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,10.8,40747.04762
+FORD,F-150,2017,331.8730159,3.5,6,AS6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,12,40747.04762
+FORD,F-150,2017,331.8730159,2.7,6,AS6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,10.9,40747.04762
+FORD,F-150,2017,331.8730159,3.5,6,AS6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,11.9,40747.04762
+FORD,F-150,2017,331.8730159,2.7,6,AS6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,10.9,40747.04762
+FORD,F-150,2017,331.8730159,3.5,6,AS10,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,11.3,40747.04762
+FORD,F-150,2017,331.8730159,2.7,6,AS10,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,10.6,40747.04762
+FORD,F-150,2017,331.8730159,3,6,AS10,D,four wheel drive,3.619047619,Large,Crew Cab Pickup,9.5,40747.04762
+FORD,F-150,2017,331.8730159,3.3,6,AS6,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,11,40747.04762
+FORD,F-150,2017,331.8730159,3.5,6,AS10,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,12,40747.04762
+FORD,F-150,2017,331.8730159,5,8,AS10,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,12.4,40747.04762
+FORD,F-150,2017,331.8730159,2.7,6,AS10,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,10.6,40747.04762
+FORD,F-150,2017,331.8730159,3.5,6,AS10,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,12,40747.04762
+FORD,F-150,2017,331.8730159,2.7,6,AS10,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,10.6,40747.04762
+FORD,F-150,2017,331.8730159,3,6,AS10,D,four wheel drive,3.619047619,Large,Crew Cab Pickup,9.8,40747.04762
+FORD,F-150,2017,331.8730159,3.5,6,AS10,X,four wheel drive,3.619047619,Large,Crew Cab Pickup,12.7,40747.04762
+FORD,FIESTA,2017,131,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,FIESTA,2017,131,1.6,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,FIESTA,2017,131,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,FIESTA,2017,131,1.6,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,FIESTA,2017,131,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,FIESTA,2017,131,1.6,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,FIESTA,2017,131,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,FIESTA,2017,131,1.6,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.8,17126.42857
+FORD,FIESTA,2017,131,1.6,4,AM6,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,FLEX,2017,300,3.5,6,AS6,X,all wheel drive,4,Large,Wagon,11.5,36120.83333
+FORD,FLEX,2017,300,3.5,6,AS6,X,all wheel drive,4,Large,Wagon,11.6,36120.83333
+FORD,FLEX,2017,300,3.5,6,AS6,X,all wheel drive,4,Large,Wagon,12.7,36120.83333
+FORD,FOCUS,2017,157.8235294,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,8.9,21790.5
+FORD,FOCUS,2017,157.8235294,1,3,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.1,21790.5
+FORD,FOCUS,2017,157.8235294,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,8.9,21790.5
+FORD,FOCUS,2017,157.8235294,1,3,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.3,21790.5
+FORD,FOCUS,2017,157.8235294,1,3,M6,X,front wheel drive,4,Compact,4dr Hatchback,6.8,21790.5
+FORD,FOCUS,2017,157.8235294,1,3,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.5,21790.5
+FORD,FOCUS,2017,157.8235294,1,3,M6,X,front wheel drive,4,Compact,4dr Hatchback,7,21790.5
+FORD,FOCUS,2017,157.8235294,2,4,AM6,X,front wheel drive,4,Compact,4dr Hatchback,7.7,21790.5
+FORD,FOCUS,2017,157.8235294,2,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,8.5,21790.5
+FORD,FOCUS,2017,157.8235294,2,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,8.3,21790.5
+FORD,FOCUS ST,2017,252,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,9.2,24523.33333
+FORD,FOCUS ST,2017,252,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,9.3,24523.33333
+FORD,FUSION,2017,211.2352941,1.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.5,28807.94118
+FORD,FUSION,2017,211.2352941,1.6,4,M6,X,front wheel drive,4,Midsize,Sedan,8.1,28807.94118
+FORD,FUSION,2017,211.2352941,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9,28807.94118
+FORD,FUSION,2017,211.2352941,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.9,28807.94118
+FORD,FUSION,2017,211.2352941,1.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.4,28807.94118
+FORD,FUSION,2017,211.2352941,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.9,28807.94118
+FORD,FUSION,2017,211.2352941,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.9,28807.94118
+FORD,FUSION,2017,211.2352941,1.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.4,28807.94118
+FORD,FUSION,2017,211.2352941,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.9,28807.94118
+FORD,FUSION,2017,211.2352941,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.9,28807.94118
+FORD,FUSION,2017,211.2352941,1.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.7,28807.94118
+FORD,FUSION,2017,211.2352941,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.6,28807.94118
+FORD,FUSION,2017,211.2352941,2.5,4,A6,X,front wheel drive,4,Midsize,Sedan,9.6,28807.94118
+FORD,FUSION,2017,211.2352941,1.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.7,28807.94118
+FORD,FUSION,2017,211.2352941,2.5,4,A6,X,front wheel drive,4,Midsize,Sedan,9.5,28807.94118
+FORD,FUSION HYBRID,2017,188,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.5,29005.5
+FORD,FUSION HYBRID,2017,188,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.5,29005.5
+FORD,FUSION HYBRID,2017,188,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.5,29005.5
+FORD,FUSION HYBRID,2017,188,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.6,29005.5
+FORD,FUSION HYBRID,2017,188,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.6,29005.5
+FORD,Fiesta,2017,131,1.6,4,AM6,X,front wheel drive,4,Compact,4dr Hatchback,7.6,17126.42857
+FORD,Fiesta,2017,131,1.6,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.9,17126.42857
+FORD,Flex,2017,300,3.5,6,AS6,X,all wheel drive,4,Large,Wagon,12.7,36120.83333
+FORD,Fusion,2017,211.2352941,1.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.7,28807.94118
+FORD,Fusion,2017,211.2352941,1.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.7,28807.94118
+FORD,Fusion Hybrid,2017,188,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.6,29005.5
+FORD,Fusion Hybrid,2017,188,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.6,29005.5
+FORD,GT,2006,550,3.5,6,AM7,Z,rear wheel drive,2,Compact,Coupe,17.3,149995
+FORD,GT,2006,550,3.5,6,AM7,Z,rear wheel drive,2,Compact,Coupe,17.1,149995
+FORD,GT,2006,550,3.5,6,AM7,Z,rear wheel drive,2,Compact,Coupe,17.1,149995
+FORD,GT,2006,550,3.5,6,AM7,Z,rear wheel drive,2,Compact,Coupe,16.6,149995
+FORD,MUSTANG,2017,360,3.7,6,A6,X,rear wheel drive,2,Midsize,Coupe,10.2,32520.625
+FORD,MUSTANG,2017,360,3.7,6,M6,X,rear wheel drive,2,Midsize,Coupe,10.6,32520.625
+FORD,MUSTANG,2017,360,5,8,A6,X,rear wheel drive,2,Midsize,Coupe,11.5,32520.625
+FORD,MUSTANG,2017,360,5,8,M6,X,rear wheel drive,2,Midsize,Coupe,12.7,32520.625
+FORD,MUSTANG,2017,360,5.8,8,M6,Z,rear wheel drive,2,Midsize,Coupe,13.2,32520.625
+FORD,MUSTANG,2017,360,2.3,4,AS6,X,rear wheel drive,2,Midsize,Coupe,9.4,32520.625
+FORD,MUSTANG,2017,360,2.3,4,M6,X,rear wheel drive,2,Midsize,Coupe,9.2,32520.625
+FORD,MUSTANG,2017,360,3.7,6,AS6,X,rear wheel drive,2,Midsize,Coupe,10.7,32520.625
+FORD,MUSTANG,2017,360,3.7,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.2,32520.625
+FORD,MUSTANG,2017,360,5,8,AS6,X,rear wheel drive,2,Midsize,Coupe,12.4,32520.625
+FORD,MUSTANG,2017,360,5,8,M6,X,rear wheel drive,2,Midsize,Coupe,12.5,32520.625
+FORD,MUSTANG,2017,360,2.3,4,AS6,X,rear wheel drive,2,Midsize,Coupe,9.4,32520.625
+FORD,MUSTANG,2017,360,2.3,4,M6,X,rear wheel drive,2,Midsize,Coupe,9.2,32520.625
+FORD,MUSTANG,2017,360,3.7,6,AS6,X,rear wheel drive,2,Midsize,Coupe,10.7,32520.625
+FORD,MUSTANG,2017,360,3.7,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.2,32520.625
+FORD,MUSTANG,2017,360,5,8,AS6,X,rear wheel drive,2,Midsize,Coupe,12.4,32520.625
+FORD,MUSTANG,2017,360,5,8,M6,X,rear wheel drive,2,Midsize,Coupe,12.7,32520.625
+FORD,MUSTANG,2017,360,2.3,4,AS6,X,rear wheel drive,2,Midsize,Coupe,9.6,32520.625
+FORD,MUSTANG,2017,360,2.3,4,M6,X,rear wheel drive,2,Midsize,Coupe,9.8,32520.625
+FORD,MUSTANG,2017,360,3.7,6,AS6,X,rear wheel drive,2,Midsize,Coupe,11.1,32520.625
+FORD,MUSTANG,2017,360,3.7,6,M6,X,rear wheel drive,2,Midsize,Coupe,11.5,32520.625
+FORD,MUSTANG,2017,360,5,8,AS6,X,rear wheel drive,2,Midsize,Coupe,12.9,32520.625
+FORD,MUSTANG,2017,360,5,8,M6,X,rear wheel drive,2,Midsize,Coupe,13.1,32520.625
+FORD,MUSTANG,2017,360,2.3,4,AS10,X,rear wheel drive,2,Midsize,Coupe,9.4,32520.625
+FORD,MUSTANG,2017,360,2.3,4,M6,X,rear wheel drive,2,Midsize,Coupe,9.5,32520.625
+FORD,MUSTANG,2017,360,5,8,AS10,X,rear wheel drive,2,Midsize,Coupe,12.5,32520.625
+FORD,MUSTANG,2017,360,5,8,M6,X,rear wheel drive,2,Midsize,Coupe,12.8,32520.625
+FORD,Mustang,2017,360,2.3,4,AS10,X,rear wheel drive,2,Midsize,Coupe,9.4,32520.625
+FORD,Mustang,2017,360,2.3,4,M6,X,rear wheel drive,2,Midsize,Coupe,9.7,32520.625
+FORD,Mustang,2017,360,5,8,AS10,X,rear wheel drive,2,Midsize,Coupe,12.3,32520.625
+FORD,Mustang,2017,360,5,8,M6,X,rear wheel drive,2,Midsize,Coupe,13.3,32520.625
+FORD,Mustang,2017,360,2.3,4,M6,X,rear wheel drive,2,Midsize,Coupe,9.7,32520.625
+FORD,Mustang,2017,360,5,8,M6,X,rear wheel drive,2,Midsize,Coupe,13.3,32520.625
+FORD,TAURUS,2017,300.8333333,2,4,AS6,X,all wheel drive,4,Large,Sedan,9.1,33592.5
+FORD,TAURUS,2017,300.8333333,2,4,AS6,X,all wheel drive,4,Large,Sedan,9.1,33592.5
+FORD,TAURUS,2017,300.8333333,2,4,AS6,X,all wheel drive,4,Large,Sedan,10.1,33592.5
+FORD,TAURUS,2017,300.8333333,2,4,AS6,X,all wheel drive,4,Large,Sedan,10.1,33592.5
+FORD,TRANSIT CONNECT,2017,169,1.6,4,AS6,X,front wheel drive,4,Compact,Cargo Minivan,9.5,25110.76087
+FORD,TRANSIT CONNECT,2017,169,2.5,4,AS6,X,front wheel drive,4,Compact,Cargo Minivan,9.9,25110.76087
+GMC,ACADIA,2017,270.09375,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,12.3,40086.40625
+GMC,ACADIA,2017,270.09375,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,12.3,40086.40625
+GMC,ACADIA,2017,270.09375,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,13.4,40086.40625
+GMC,ACADIA,2017,270.09375,2.5,4,A6,X,front wheel drive,4,Midsize,4dr SUV,10.2,40086.40625
+GMC,ACADIA,2017,270.09375,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,11.3,40086.40625
+GMC,ACADIA,2017,270.09375,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,11.4,40086.40625
+GMC,Acadia,2017,270.09375,2.5,4,A6,X,front wheel drive,4,Midsize,4dr SUV,10.2,40086.40625
+GMC,Acadia,2017,270.09375,3.6,6,A6,X,front wheel drive,4,Midsize,4dr SUV,11.4,40086.40625
+GMC,Acadia,2017,270.09375,2,4,A9,X,front wheel drive,4,Midsize,4dr SUV,9.8,40086.40625
+GMC,Acadia,2017,270.09375,2.5,4,A9,X,front wheel drive,4,Midsize,4dr SUV,10.2,40086.40625
+GMC,Acadia,2017,270.09375,3.6,6,A9,X,front wheel drive,4,Midsize,4dr SUV,10.9,40086.40625
+GMC,CANYON,2016,239.9375,2.5,4,A6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.5,28899.16667
+GMC,CANYON,2016,239.9375,2.5,4,M6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.8,28899.16667
+GMC,CANYON,2016,239.9375,3.6,6,A6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,11.3,28899.16667
+GMC,CANYON,2016,239.9375,2.5,4,A6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.5,28899.16667
+GMC,CANYON,2016,239.9375,2.5,4,M6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.8,28899.16667
+GMC,CANYON,2016,239.9375,2.8,4,A6,D,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,9.4,28899.16667
+GMC,CANYON,2016,239.9375,3.6,6,A6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,11.3,28899.16667
+GMC,CANYON,2016,239.9375,2.5,4,A6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.7,28899.16667
+GMC,CANYON,2016,239.9375,2.5,4,M6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.9,28899.16667
+GMC,CANYON,2016,239.9375,2.8,4,A6,D,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,9.5,28899.16667
+GMC,CANYON,2016,239.9375,3.6,6,A8,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,11.7,28899.16667
+GMC,CANYON,2016,239.9375,2.5,4,A6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.8,28899.16667
+GMC,CANYON,2016,239.9375,2.5,4,M6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.7,28899.16667
+GMC,CANYON,2016,239.9375,2.8,4,A6,D,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,9.6,28899.16667
+GMC,Canyon,2016,239.9375,2.5,4,A6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.8,28899.16667
+GMC,Canyon,2016,239.9375,2.5,4,M6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.7,28899.16667
+GMC,Canyon,2016,239.9375,2.8,4,A6,D,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.1,28899.16667
+GMC,Canyon,2016,239.9375,3.6,6,A8,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,11.7,28899.16667
+GMC,Canyon,2016,239.9375,2.5,4,A6,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,10.8,28899.16667
+GMC,Canyon,2016,239.9375,3.6,6,A8,X,rear wheel drive,3.833333333,Compact,Crew Cab Pickup,11.7,28899.16667
+GMC,TERRAIN,2017,182,2.4,4,A6,X,front wheel drive,4,Compact,4dr SUV,9.1,30442.58621
+GMC,TERRAIN,2017,182,3.6,6,A6,X,front wheel drive,4,Compact,4dr SUV,12,30442.58621
+GMC,TERRAIN,2017,182,3.6,6,A6,E,front wheel drive,4,Compact,4dr SUV,16.2,30442.58621
+GMC,TERRAIN,2017,182,3.6,6,A6,X,front wheel drive,4,Compact,4dr SUV,12.1,30442.58621
+GMC,TERRAIN,2017,182,2.4,4,A6,X,front wheel drive,4,Compact,4dr SUV,9.1,30442.58621
+GMC,TERRAIN,2017,182,3.6,6,A6,X,front wheel drive,4,Compact,4dr SUV,12.1,30442.58621
+GMC,TERRAIN,2017,182,2.4,4,A6,X,front wheel drive,4,Compact,4dr SUV,9.4,30442.58621
+GMC,TERRAIN,2017,182,3.6,6,A6,X,front wheel drive,4,Compact,4dr SUV,12.1,30442.58621
+GMC,TERRAIN,2017,182,1.5,4,A9,X,front wheel drive,4,Compact,4dr SUV,8.6,30442.58621
+GMC,TERRAIN,2017,182,1.6,4,A6,D,front wheel drive,4,Compact,4dr SUV,7.4,30442.58621
+GMC,Terrain,2017,182,1.5,4,A9,X,front wheel drive,4,Compact,4dr SUV,8.6,30442.58621
+GMC,Terrain,2017,182,1.6,4,A6,D,front wheel drive,4,Compact,4dr SUV,7.4,30442.58621
+GMC,Terrain,2017,182,1.5,4,A9,X,front wheel drive,4,Compact,4dr SUV,8.6,30442.58621
+GMC,YUKON,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13.8,58270.55556
+GMC,YUKON,2017,376.6666667,5.3,8,A6,E,four wheel drive,4,Large,4dr SUV,18.4,58270.55556
+GMC,YUKON,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,12.7,58270.55556
+GMC,YUKON,2017,376.6666667,5.3,8,A6,E,four wheel drive,4,Large,4dr SUV,17.2,58270.55556
+GMC,YUKON,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13,58270.55556
+GMC,YUKON,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13,58270.55556
+GMC,YUKON XL,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13.8,60970.55556
+GMC,YUKON XL,2017,376.6666667,5.3,8,A6,E,four wheel drive,4,Large,4dr SUV,18.4,60970.55556
+GMC,YUKON XL,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,12.7,60970.55556
+GMC,YUKON XL,2017,376.6666667,5.3,8,A6,E,four wheel drive,4,Large,4dr SUV,17.2,60970.55556
+GMC,YUKON XL,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13,60970.55556
+GMC,YUKON XL,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13,60970.55556
+GMC,Yukon,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13.4,58270.55556
+GMC,Yukon XL,2017,376.6666667,5.3,8,A6,X,four wheel drive,4,Large,4dr SUV,13.4,60970.55556
+HONDA,ACCORD,2017,211.5733333,2.4,4,AV,X,front wheel drive,3.093333333,Midsize,Sedan,7.9,27886.06667
+HONDA,ACCORD,2017,211.5733333,2.4,4,AV7,X,front wheel drive,3.093333333,Midsize,Sedan,8.1,27886.06667
+HONDA,ACCORD,2017,211.5733333,2.4,4,M6,X,front wheel drive,3.093333333,Midsize,Sedan,8.7,27886.06667
+HONDA,ACCORD,2017,211.5733333,3.5,6,A6,X,front wheel drive,3.093333333,Midsize,Sedan,9.1,27886.06667
+HONDA,ACCORD,2017,211.5733333,3.5,6,AS6,X,front wheel drive,3.093333333,Midsize,Sedan,9.6,27886.06667
+HONDA,ACCORD,2017,211.5733333,3.5,6,M6,X,front wheel drive,3.093333333,Midsize,Sedan,10.9,27886.06667
+HONDA,ACCORD,2017,211.5733333,2.4,4,AV,X,front wheel drive,3.093333333,Midsize,Sedan,7.8,27886.06667
+HONDA,ACCORD,2017,211.5733333,2.4,4,AV7,X,front wheel drive,3.093333333,Midsize,Sedan,8,27886.06667
+HONDA,ACCORD,2017,211.5733333,3.5,6,AS6,X,front wheel drive,3.093333333,Midsize,Sedan,9.5,27886.06667
+HONDA,ACCORD,2017,211.5733333,2.4,4,M6,X,front wheel drive,3.093333333,Midsize,Sedan,8.9,27886.06667
+HONDA,ACCORD,2017,211.5733333,2.4,4,AV7,X,front wheel drive,3.093333333,Midsize,Sedan,8.2,27886.06667
+HONDA,ACCORD,2017,211.5733333,2.4,4,M6,X,front wheel drive,3.093333333,Midsize,Sedan,9,27886.06667
+HONDA,ACCORD,2017,211.5733333,1.5,4,AV,X,front wheel drive,3.093333333,Midsize,Sedan,7.2,27886.06667
+HONDA,ACCORD,2017,211.5733333,1.5,4,AV7,X,front wheel drive,3.093333333,Midsize,Sedan,7.6,27886.06667
+HONDA,ACCORD,2017,211.5733333,1.5,4,M6,X,front wheel drive,3.093333333,Midsize,Sedan,7.9,27886.06667
+HONDA,ACCORD,2017,211.5733333,2,4,M6,X,front wheel drive,3.093333333,Midsize,Sedan,9.2,27886.06667
+HONDA,ACCORD HYBRID,2017,201,2,4,AV,X,front wheel drive,4,Midsize,Sedan,4.8,32316.11111
+HONDA,ACCORD HYBRID,2017,201,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5,32316.11111
+HONDA,ACCORD HYBRID,2017,201,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5,32316.11111
+HONDA,ACCORD HYBRID,2017,201,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.1,32316.11111
+HONDA,Accord,2017,211.5733333,1.5,4,AV,X,front wheel drive,3.093333333,Midsize,Sedan,7.2,27886.06667
+HONDA,Accord,2017,211.5733333,1.5,4,AV7,X,front wheel drive,3.093333333,Midsize,Sedan,7.6,27886.06667
+HONDA,Accord,2017,211.5733333,1.5,4,M6,X,front wheel drive,3.093333333,Midsize,Sedan,7.9,27886.06667
+HONDA,Accord,2017,211.5733333,2,4,M6,X,front wheel drive,3.093333333,Midsize,Sedan,9.2,27886.06667
+HONDA,Accord,2017,211.5733333,1.5,4,AV,X,front wheel drive,3.093333333,Midsize,Sedan,7.2,27886.06667
+HONDA,Accord Hybrid,2017,201,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5,32316.11111
+HONDA,CIVIC,2017,162.0294118,1.8,4,AV,X,front wheel drive,3.323529412,Compact,Sedan,7,22517.94118
+HONDA,CIVIC,2017,162.0294118,1.8,4,AV7,X,front wheel drive,3.323529412,Compact,Sedan,7.2,22517.94118
+HONDA,CIVIC,2017,162.0294118,1.8,4,M5,X,front wheel drive,3.323529412,Compact,Sedan,7.6,22517.94118
+HONDA,CIVIC,2017,162.0294118,1.8,4,AV,X,front wheel drive,3.323529412,Compact,Sedan,7.1,22517.94118
+HONDA,CIVIC,2017,162.0294118,1.8,4,M5,X,front wheel drive,3.323529412,Compact,Sedan,7.7,22517.94118
+HONDA,CR-V,2016,185,2.4,4,A5,X,all wheel drive,4,Compact,4dr SUV,9.1,27968.4375
+HONDA,CR-V,2016,185,2.4,4,AV,X,all wheel drive,4,Compact,4dr SUV,7.8,27968.4375
+HONDA,CR-V,2016,185,2.4,4,AV,X,all wheel drive,4,Compact,4dr SUV,7.9,27968.4375
+HONDA,CR-V,2016,185,1.5,4,AV,X,all wheel drive,4,Compact,4dr SUV,7.8,27968.4375
+HONDA,CR-V,2016,185,1.5,4,AV,X,all wheel drive,4,Compact,4dr SUV,7.7,27968.4375
+HONDA,CR-Z,2016,130,1.5,4,AV7,X,front wheel drive,2,Compact,2dr Hatchback,6.3,22288.88889
+HONDA,CR-Z,2016,130,1.5,4,M6,X,front wheel drive,2,Compact,2dr Hatchback,6.9,22288.88889
+HONDA,CR-Z,2016,130,1.5,4,AV7,X,front wheel drive,2,Compact,2dr Hatchback,6.8,22288.88889
+HONDA,CR-Z,2016,130,1.5,4,M6,X,front wheel drive,2,Compact,2dr Hatchback,7.3,22288.88889
+HONDA,FIT,2017,130,1.5,4,A5,X,front wheel drive,4,Compact,4dr Hatchback,7.5,18338.33333
+HONDA,FIT,2017,130,1.5,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.7,18338.33333
+HONDA,FIT,2017,130,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.4,18338.33333
+HONDA,FIT,2017,130,1.5,4,AV7,X,front wheel drive,4,Compact,4dr Hatchback,6.8,18338.33333
+HONDA,FIT,2017,130,1.5,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.3,18338.33333
+HONDA,FIT,2017,130,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.4,18338.33333
+HONDA,FIT,2017,130,1.5,4,AV7,X,front wheel drive,4,Compact,4dr Hatchback,6.8,18338.33333
+HONDA,FIT,2017,130,1.5,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.3,18338.33333
+HONDA,FIT,2017,130,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.5,18338.33333
+HONDA,FIT,2017,130,1.5,4,AV7,X,front wheel drive,4,Compact,4dr Hatchback,7,18338.33333
+HONDA,FIT,2017,130,1.5,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.4,18338.33333
+HONDA,FIT,2017,130,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.5,18338.33333
+HONDA,FIT,2017,130,1.5,4,AV7,X,front wheel drive,4,Compact,4dr Hatchback,7,18338.33333
+HONDA,Fit,2017,130,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.5,18338.33333
+HONDA,Fit,2017,130,1.5,4,AV7,X,front wheel drive,4,Compact,4dr Hatchback,7,18338.33333
+HONDA,Fit,2017,130,1.5,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.4,18338.33333
+HONDA,HR-V,2017,141,1.8,4,AV,X,front wheel drive,4,Compact,4dr SUV,7.6,22315
+HONDA,HR-V,2017,141,1.8,4,AV7,X,front wheel drive,4,Compact,4dr SUV,7.6,22315
+HONDA,HR-V,2017,141,1.8,4,M6,X,front wheel drive,4,Compact,4dr SUV,8.3,22315
+HONDA,HR-V,2017,141,1.8,4,AV,X,front wheel drive,4,Compact,4dr SUV,7.7,22315
+HONDA,HR-V,2017,141,1.8,4,AV7,X,front wheel drive,4,Compact,4dr SUV,7.7,22315
+HONDA,HR-V,2017,141,1.8,4,M6,X,front wheel drive,4,Compact,4dr SUV,8.4,22315
+HONDA,HR-V,2017,141,1.8,4,AV,X,front wheel drive,4,Compact,4dr SUV,7.8,22315
+HONDA,ODYSSEY,2016,248,3.5,6,A6,X,front wheel drive,4,Large,Passenger Minivan,10.6,36879
+HONDA,ODYSSEY,2016,248,3.5,6,A6,X,front wheel drive,4,Large,Passenger Minivan,10.6,36879
+HONDA,ODYSSEY,2016,248,3.5,6,A6,X,front wheel drive,4,Large,Passenger Minivan,10.7,36879
+HONDA,ODYSSEY,2016,248,3.5,6,AS9,X,front wheel drive,4,Large,Passenger Minivan,10.7,36879
+HONDA,Odyssey,2016,248,3.5,6,AS9,X,front wheel drive,4,Large,Passenger Minivan,10.7,36879
+HONDA,Odyssey,2016,248,3.5,6,AS10,X,front wheel drive,4,Large,Passenger Minivan,10.6,36879
+HONDA,PILOT,2017,271.25,3.5,6,A5,X,front wheel drive,4,Midsize,4dr SUV,11.5,36904.16667
+HONDA,PILOT,2017,271.25,3.5,6,A5,X,front wheel drive,4,Midsize,4dr SUV,11.5,36904.16667
+HONDA,PILOT,2017,271.25,3.5,6,A6,X,front wheel drive,4,Midsize,4dr SUV,10.8,36904.16667
+HONDA,PILOT,2017,271.25,3.5,6,A6,X,front wheel drive,4,Midsize,4dr SUV,10.8,36904.16667
+HONDA,Pilot,2017,271.25,3.5,6,A6,X,front wheel drive,4,Midsize,4dr SUV,10.7,36904.16667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,A6,X,front wheel drive,4,Compact,4dr Hatchback,7.7,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.7,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.7,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.6,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.7,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.6,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.9,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.8,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.4,15911.66667
+HYUNDAI,ACCENT,2016,137.3333333,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.3,15911.66667
+HYUNDAI,Accent,2016,137.3333333,1.6,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,7.3,15911.66667
+HYUNDAI,Accent,2016,137.3333333,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.3,15911.66667
+HYUNDAI,Accent,2016,137.3333333,1.6,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.7,15911.66667
+HYUNDAI,Accent,2016,137.3333333,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7,15911.66667
+HYUNDAI,ELANTRA,2017,155.875,1.8,4,AS6,X,front wheel drive,4,Compact,Sedan,7.5,20437.5
+HYUNDAI,ELANTRA,2017,155.875,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.7,20437.5
+HYUNDAI,ELANTRA,2017,155.875,2,4,AS6,X,front wheel drive,4,Compact,Sedan,8.3,20437.5
+HYUNDAI,ELANTRA,2017,155.875,2,4,M6,X,front wheel drive,4,Compact,Sedan,8.5,20437.5
+HYUNDAI,ELANTRA,2017,155.875,1.8,4,AS6,X,front wheel drive,4,Compact,Sedan,7.5,20437.5
+HYUNDAI,ELANTRA,2017,155.875,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.7,20437.5
+HYUNDAI,ELANTRA,2017,155.875,2,4,AS6,X,front wheel drive,4,Compact,Sedan,8.3,20437.5
+HYUNDAI,ELANTRA,2017,155.875,2,4,M6,X,front wheel drive,4,Compact,Sedan,8.5,20437.5
+HYUNDAI,ELANTRA,2017,155.875,2,4,AS6,X,front wheel drive,4,Compact,Sedan,7.4,20437.5
+HYUNDAI,ELANTRA,2017,155.875,2,4,M6,X,front wheel drive,4,Compact,Sedan,8,20437.5
+HYUNDAI,ELANTRA,2017,155.875,1.6,4,AM7,X,front wheel drive,4,Compact,Sedan,8.1,20437.5
+HYUNDAI,ELANTRA,2017,155.875,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,9.4,20437.5
+HYUNDAI,ELANTRA,2017,155.875,2,4,M6,X,front wheel drive,4,Compact,Sedan,8,20437.5
+HYUNDAI,ELANTRA COUPE,2014,152.625,2,4,AS6,X,front wheel drive,2,Compact,Coupe,8.3,19458.75
+HYUNDAI,ELANTRA COUPE,2014,152.625,2,4,M6,X,front wheel drive,2,Compact,Coupe,8.3,19458.75
+HYUNDAI,ELANTRA GT,2017,173,2,4,A6,X,front wheel drive,4,Compact,4dr Hatchback,8.6,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,8.5,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,8.6,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,8.5,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,8.6,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,8.6,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,8.7,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,8.7,19300
+HYUNDAI,ELANTRA GT,2017,173,1.6,4,AM7,X,front wheel drive,4,Compact,4dr Hatchback,8.3,19300
+HYUNDAI,ELANTRA GT,2017,173,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,9.6,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,8.4,19300
+HYUNDAI,ELANTRA GT,2017,173,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,8.7,19300
+HYUNDAI,EQUUS,2016,429,5,8,A8,Z,rear wheel drive,4,Large,Sedan,13.2,65041.66667
+HYUNDAI,EQUUS,2016,429,5,8,AS8,Z,rear wheel drive,4,Large,Sedan,13.3,65041.66667
+HYUNDAI,EQUUS,2016,429,5,8,AS8,Z,rear wheel drive,4,Large,Sedan,13.3,65041.66667
+HYUNDAI,Elantra,2017,155.875,1.6,4,AM7,X,front wheel drive,4,Compact,Sedan,8.1,20437.5
+HYUNDAI,Elantra,2017,155.875,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,9.4,20437.5
+HYUNDAI,Elantra,2017,155.875,2,4,AS6,X,front wheel drive,4,Compact,Sedan,7.4,20437.5
+HYUNDAI,Elantra,2017,155.875,2,4,M6,X,front wheel drive,4,Compact,Sedan,8,20437.5
+HYUNDAI,Elantra,2017,155.875,1.6,4,AM7,X,front wheel drive,4,Compact,Sedan,8.1,20437.5
+HYUNDAI,Elantra,2017,155.875,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,9,20437.5
+HYUNDAI,Elantra,2017,155.875,2,4,AV,X,front wheel drive,4,Compact,Sedan,6.8,20437.5
+HYUNDAI,Elantra,2017,155.875,2,4,M6,X,front wheel drive,4,Compact,Sedan,7.9,20437.5
+HYUNDAI,Elantra GT,2017,173,1.6,4,AM7,X,front wheel drive,4,Compact,4dr Hatchback,8.6,19300
+HYUNDAI,Elantra GT,2017,173,1.6,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,9.2,19300
+HYUNDAI,Elantra GT,2017,173,2,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,8.4,19300
+HYUNDAI,Elantra GT,2017,173,2,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,8.7,19300
+HYUNDAI,Elantra GT,2017,173,2,4,AS6,X,front wheel drive,4,Compact,4dr Hatchback,8.4,19300
+HYUNDAI,GENESIS,2016,355.75,3.8,6,A8,X,rear wheel drive,4,Large,Sedan,11.1,43306.25
+HYUNDAI,GENESIS COUPE,2016,335.6666667,3.8,6,AS8,Z,rear wheel drive,2,Midsize,Coupe,12.3,30577.77778
+HYUNDAI,GENESIS COUPE,2016,335.6666667,3.8,6,M6,Z,rear wheel drive,2,Midsize,Coupe,12.4,30577.77778
+HYUNDAI,GENESIS COUPE,2016,335.6666667,3.8,6,AS8,Z,rear wheel drive,2,Midsize,Coupe,12.2,30577.77778
+HYUNDAI,GENESIS COUPE,2016,335.6666667,3.8,6,M6,Z,rear wheel drive,2,Midsize,Coupe,12.1,30577.77778
+HYUNDAI,SANTA FE,2017,290,3.3,6,A6,X,all wheel drive,4,Midsize,4dr SUV,11.2,35030.55556
+HYUNDAI,SANTA FE,2017,290,3.3,6,AS6,X,all wheel drive,4,Midsize,4dr SUV,11.3,35030.55556
+HYUNDAI,SANTA FE,2017,290,3.3,6,AS6,X,all wheel drive,4,Midsize,4dr SUV,11.3,35030.55556
+HYUNDAI,SANTA FE SPORT,2017,236.625,2.4,4,A6,X,all wheel drive,4,Midsize,4dr SUV,10.3,30525
+HYUNDAI,SANTA FE SPORT,2017,236.625,2.4,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,10.3,30525
+HYUNDAI,SANTA FE SPORT,2017,236.625,2.4,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,10.3,30525
+HYUNDAI,SANTA FE SPORT,2017,236.625,2.4,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,10,30525
+HYUNDAI,SONATA,2017,200.8611111,2,4,A6,X,front wheel drive,4,Midsize,Sedan,9.6,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2.4,4,A6,X,front wheel drive,4,Midsize,Sedan,8.5,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.1,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.4,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.1,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.1,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.2,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.2,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2,4,AS8,X,front wheel drive,4,Midsize,Sedan,9.1,25707.63889
+HYUNDAI,SONATA,2017,200.8611111,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.5,25707.63889
+HYUNDAI,SONATA HYBRID,2017,194.5,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,6.2,28487.5
+HYUNDAI,SONATA HYBRID,2017,194.5,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,6.3,28487.5
+HYUNDAI,SONATA HYBRID,2017,194.5,2,4,AM6,X,front wheel drive,4,Midsize,Sedan,5.6,28487.5
+HYUNDAI,SONATA HYBRID,2017,194.5,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,6,28487.5
+HYUNDAI,SONATA HYBRID,2017,194.5,2,4,AM6,X,front wheel drive,4,Midsize,Sedan,5.7,28487.5
+HYUNDAI,Santa Fe,2017,290,2.4,4,AS8,X,all wheel drive,4,Midsize,4dr SUV,9.6,35030.55556
+HYUNDAI,Sonata,2017,200.8611111,2,4,AS8,X,front wheel drive,4,Midsize,Sedan,9.1,25707.63889
+HYUNDAI,Sonata,2017,200.8611111,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.3,25707.63889
+HYUNDAI,Sonata,2017,200.8611111,1.6,4,AS8,X,front wheel drive,4,Midsize,Sedan,7.7,25707.63889
+HYUNDAI,Sonata,2017,200.8611111,2.5,4,AS8,X,front wheel drive,4,Midsize,Sedan,7.7,25707.63889
+HYUNDAI,Sonata Hybrid,2017,194.5,2,4,AM6,X,front wheel drive,4,Midsize,Sedan,5.7,28487.5
+HYUNDAI,Sonata Hybrid,2017,194.5,2,4,AM6,X,front wheel drive,4,Midsize,Sedan,5,28487.5
+HYUNDAI,TUCSON,2017,173.8333333,2,4,A6,X,all wheel drive,4,Compact,4dr SUV,9.3,25970.83333
+HYUNDAI,TUCSON,2017,173.8333333,2,4,M6,X,all wheel drive,4,Compact,4dr SUV,10.1,25970.83333
+HYUNDAI,TUCSON,2017,173.8333333,2.4,4,A6,X,all wheel drive,4,Compact,4dr SUV,10,25970.83333
+HYUNDAI,TUCSON,2017,173.8333333,2,4,AS6,X,all wheel drive,4,Compact,4dr SUV,9.3,25970.83333
+HYUNDAI,TUCSON,2017,173.8333333,2,4,M6,X,all wheel drive,4,Compact,4dr SUV,10.1,25970.83333
+HYUNDAI,TUCSON,2017,173.8333333,2.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,10,25970.83333
+HYUNDAI,TUCSON,2017,173.8333333,2,4,AS6,X,all wheel drive,4,Compact,4dr SUV,9,25970.83333
+HYUNDAI,TUCSON,2017,173.8333333,1.6,4,AM7,X,all wheel drive,4,Compact,4dr SUV,9.3,25970.83333
+HYUNDAI,TUCSON,2017,173.8333333,2,4,AS6,X,all wheel drive,4,Compact,4dr SUV,9,25970.83333
+HYUNDAI,Tucson,2017,173.8333333,2,4,AS6,X,all wheel drive,4,Compact,4dr SUV,9.1,25970.83333
+HYUNDAI,VELOSTER,2016,165,1.6,4,AM6,X,front wheel drive,3,Compact,2dr Hatchback,7.7,20928.33333
+HYUNDAI,VELOSTER,2016,165,1.6,4,M6,X,front wheel drive,3,Compact,2dr Hatchback,8,20928.33333
+HYUNDAI,VELOSTER,2016,165,1.6,4,M6,X,front wheel drive,3,Compact,2dr Hatchback,8,20928.33333
+HYUNDAI,VELOSTER,2016,165,1.6,4,AM6,X,front wheel drive,3,Compact,2dr Hatchback,7.5,20928.33333
+HYUNDAI,VELOSTER,2016,165,1.6,4,M6,X,front wheel drive,3,Compact,2dr Hatchback,7.8,20928.33333
+HYUNDAI,VELOSTER,2016,165,1.6,4,AM6,X,front wheel drive,3,Compact,2dr Hatchback,7.6,20928.33333
+HYUNDAI,VELOSTER,2016,165,1.6,4,M6,X,front wheel drive,3,Compact,2dr Hatchback,8,20928.33333
+HYUNDAI,Veloster,2016,165,2,4,AS6,X,front wheel drive,3,Compact,2dr Hatchback,8.2,20928.33333
+HYUNDAI,Veloster,2016,165,2,4,M6,X,front wheel drive,3,Compact,2dr Hatchback,8.4,20928.33333
+INFINITI,Q50,2017,303.5555556,3.7,6,AS7,Z,all wheel drive,4,Midsize,Sedan,10.2,43130.55556
+INFINITI,Q50,2017,303.5555556,3.7,6,AS7,Z,all wheel drive,4,Midsize,Sedan,10.3,43130.55556
+INFINITI,Q50,2017,303.5555556,2,4,AS7,Z,all wheel drive,4,Midsize,Sedan,9.1,43130.55556
+INFINITI,Q50,2017,303.5555556,3,6,AS7,Z,all wheel drive,4,Midsize,Sedan,10.3,43130.55556
+INFINITI,Q60 CONVERTIBLE,2015,331,3.7,6,AS7,Z,rear wheel drive,2,Midsize,Convertible,11.7,54683.33333
+INFINITI,Q60 CONVERTIBLE,2015,331,3.7,6,M6,Z,rear wheel drive,2,Midsize,Convertible,12.3,54683.33333
+INFINITI,Q60 COUPE,2017,309.3333333,3.7,6,AS7,Z,rear wheel drive,2,Midsize,Coupe,11.1,45647.22222
+INFINITI,Q60 COUPE,2017,309.3333333,3.7,6,M6,Z,rear wheel drive,2,Midsize,Coupe,11.6,45647.22222
+INFINITI,Q70,2016,372.6956522,3.7,6,AS7,Z,rear wheel drive,4,Large,Sedan,11,57760.86957
+INFINITI,Q70,2016,372.6956522,5.6,8,AS7,Z,rear wheel drive,4,Large,Sedan,12.3,57760.86957
+INFINITI,Q70,2016,372.6956522,5.6,8,AS7,Z,rear wheel drive,4,Large,Sedan,12.4,57760.86957
+INFINITI,QX60,2017,261,3.5,6,AV,Z,all wheel drive,4,Large,4dr SUV,10.6,45890
+INFINITI,QX60,2017,261,3.5,6,AV7,Z,all wheel drive,4,Large,4dr SUV,10.1,45890
+INFINITI,QX60,2017,261,3.5,6,AV7,Z,all wheel drive,4,Large,4dr SUV,10.3,45890
+INFINITI,QX60,2017,261,3.5,6,AV7,Z,all wheel drive,4,Large,4dr SUV,10.5,45890
+KIA,CADENZA,2017,291.875,3.3,6,A6,X,front wheel drive,4,Midsize,Sedan,10.9,38392.5
+KIA,CADENZA,2017,291.875,3.3,6,AS6,X,front wheel drive,4,Midsize,Sedan,10.7,38392.5
+KIA,CADENZA,2017,291.875,3.3,6,AS6,X,front wheel drive,4,Midsize,Sedan,10.7,38392.5
+KIA,CADENZA,2017,291.875,3.3,6,AS8,X,front wheel drive,4,Midsize,Sedan,10.2,38392.5
+KIA,Cadenza,2017,291.875,3.3,6,AS8,X,front wheel drive,4,Midsize,Sedan,10.2,38392.5
+KIA,FORTE,2017,175.25,1.8,4,A6,X,front wheel drive,3.5,Compact,4dr Hatchback,8.3,19895
+KIA,FORTE,2017,175.25,1.8,4,M6,X,front wheel drive,3.5,Compact,4dr Hatchback,8,19895
+KIA,FORTE,2017,175.25,2,4,A6,X,front wheel drive,3.5,Compact,4dr Hatchback,8.4,19895
+KIA,FORTE,2017,175.25,2,4,M6,X,front wheel drive,3.5,Compact,4dr Hatchback,8.4,19895
+KIA,FORTE,2017,175.25,1.8,4,AS6,X,front wheel drive,3.5,Compact,4dr Hatchback,7.6,19895
+KIA,FORTE,2017,175.25,1.8,4,M6,X,front wheel drive,3.5,Compact,4dr Hatchback,7.9,19895
+KIA,FORTE,2017,175.25,2,4,AS6,X,front wheel drive,3.5,Compact,4dr Hatchback,8.3,19895
+KIA,FORTE,2017,175.25,2,4,M6,X,front wheel drive,3.5,Compact,4dr Hatchback,8.5,19895
+KIA,FORTE,2017,175.25,1.8,4,AS6,X,front wheel drive,3.5,Compact,4dr Hatchback,7.6,19895
+KIA,FORTE,2017,175.25,1.8,4,M6,X,front wheel drive,3.5,Compact,4dr Hatchback,7.9,19895
+KIA,FORTE,2017,175.25,2,4,AS6,X,front wheel drive,3.5,Compact,4dr Hatchback,8.3,19895
+KIA,FORTE,2017,175.25,2,4,M6,X,front wheel drive,3.5,Compact,4dr Hatchback,8.5,19895
+KIA,FORTE,2017,175.25,2,4,M6,X,front wheel drive,3.5,Compact,4dr Hatchback,8.3,19895
+KIA,Forte,2017,175.25,2,4,AV,X,front wheel drive,3.5,Compact,4dr Hatchback,6.9,19895
+KIA,Forte,2017,175.25,2,4,M6,X,front wheel drive,3.5,Compact,4dr Hatchback,7.6,19895
+KIA,Forte,2017,175.25,1.6,4,AM7,X,front wheel drive,3.5,Compact,4dr Hatchback,7.8,19895
+KIA,Forte,2017,175.25,2,4,AV,X,front wheel drive,3.5,Compact,4dr Hatchback,7,19895
+KIA,K900,2016,376.4,3.8,6,AS8,X,rear wheel drive,4,Large,Sedan,11.3,56040
+KIA,K900,2016,376.4,5,8,AS8,Z,rear wheel drive,4,Large,Sedan,13.3,56040
+KIA,K900,2016,376.4,3.8,6,AS8,X,rear wheel drive,4,Large,Sedan,11.8,56040
+KIA,K900,2016,376.4,5,8,AS8,X,rear wheel drive,4,Large,Sedan,13.4,56040
+KIA,K900,2016,376.4,3.8,6,AS8,X,rear wheel drive,4,Large,Sedan,11.8,56040
+KIA,K900,2016,376.4,5,8,AS8,Z,rear wheel drive,4,Large,Sedan,13.3,56040
+KIA,OPTIMA,2016,216.7058824,2,4,A6,X,front wheel drive,4,Midsize,Sedan,9.9,27312.35294
+KIA,OPTIMA,2016,216.7058824,2.4,4,A6,X,front wheel drive,4,Midsize,Sedan,8.7,27312.35294
+KIA,OPTIMA,2016,216.7058824,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.9,27312.35294
+KIA,OPTIMA,2016,216.7058824,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.7,27312.35294
+KIA,OPTIMA,2016,216.7058824,1.6,4,AM7,X,front wheel drive,4,Midsize,Sedan,7.4,27312.35294
+KIA,OPTIMA,2016,216.7058824,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.3,27312.35294
+KIA,OPTIMA,2016,216.7058824,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.1,27312.35294
+KIA,OPTIMA,2016,216.7058824,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.4,27312.35294
+KIA,OPTIMA,2016,216.7058824,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.4,27312.35294
+KIA,OPTIMA HYBRID,2017,196.6666667,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,6.2,28885.83333
+KIA,OPTIMA HYBRID,2017,196.6666667,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,6.3,28885.83333
+KIA,OPTIMA HYBRID,2017,196.6666667,2.4,4,AM6,X,front wheel drive,4,Midsize,Sedan,6.3,28885.83333
+KIA,OPTIMA HYBRID,2017,196.6666667,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,5.6,28885.83333
+KIA,OPTIMA HYBRID,2017,196.6666667,2,4,AM6,X,front wheel drive,4,Midsize,Sedan,5.6,28885.83333
+KIA,Optima,2016,216.7058824,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.7,27312.35294
+KIA,Optima,2016,216.7058824,2.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.4,27312.35294
+KIA,Optima Hybrid,2017,196.6666667,2,4,AM6,X,front wheel drive,4,Midsize,Sedan,5.7,28885.83333
+KIA,Optima Hybrid,2017,196.6666667,2,4,AM6,X,front wheel drive,4,Midsize,Sedan,5.6,28885.83333
+KIA,RIO,2017,138,1.6,4,A6,X,front wheel drive,4,Compact,Sedan,7.6,16810.2381
+KIA,RIO,2017,138,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,7.7,16810.2381
+KIA,RIO,2017,138,1.6,4,AS6,X,front wheel drive,4,Compact,Sedan,7.7,16810.2381
+KIA,RIO,2017,138,1.6,4,AS6,X,front wheel drive,4,Compact,Sedan,7.7,16810.2381
+KIA,RIO,2017,138,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,7.7,16810.2381
+KIA,RIO,2017,138,1.6,4,AS6,X,front wheel drive,4,Compact,Sedan,7.8,16810.2381
+KIA,RIO,2017,138,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,7.8,16810.2381
+KIA,RIO,2017,138,1.6,4,AS6,X,front wheel drive,4,Compact,Sedan,7.5,16810.2381
+KIA,RIO,2017,138,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,7.5,16810.2381
+KIA,RONDO,2009,173.9333333,2,4,A6,X,front wheel drive,4,Compact,Wagon,9.2,18948.33333
+KIA,RONDO,2009,173.9333333,2,4,M6,X,front wheel drive,4,Compact,Wagon,9.3,18948.33333
+KIA,RONDO,2009,173.9333333,2,4,AS6,X,front wheel drive,4,Compact,Wagon,9.3,18948.33333
+KIA,RONDO,2009,173.9333333,2,4,AS6,X,front wheel drive,4,Compact,Wagon,9,18948.33333
+KIA,RONDO,2009,173.9333333,2,4,M6,X,front wheel drive,4,Compact,Wagon,9.3,18948.33333
+KIA,RONDO,2009,173.9333333,2,4,AS6,X,front wheel drive,4,Compact,Wagon,8.9,18948.33333
+KIA,Rio,2017,138,1.6,4,AS6,X,front wheel drive,4,Compact,Sedan,7.5,16810.2381
+KIA,Rio,2017,138,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,7.5,16810.2381
+KIA,Rio,2017,138,1.6,4,AV,X,front wheel drive,4,Compact,Sedan,6.6,16810.2381
+KIA,Rio,2017,138,1.6,4,M6,X,front wheel drive,4,Compact,Sedan,7,16810.2381
+KIA,SEDONA,2017,276,3.5,6,A6,X,front wheel drive,4,Midsize,Passenger Minivan,12,32976.66667
+KIA,SEDONA,2017,276,3.3,6,AS6,X,front wheel drive,4,Midsize,Passenger Minivan,11.6,32976.66667
+KIA,SEDONA,2017,276,3.3,6,AS6,X,front wheel drive,4,Midsize,Passenger Minivan,11.6,32976.66667
+KIA,SORENTO,2017,260.3157895,2.4,4,A6,X,front wheel drive,4,Midsize,4dr SUV,10.3,33765.26316
+KIA,SORENTO,2017,260.3157895,3.3,6,A6,X,front wheel drive,4,Midsize,4dr SUV,11.4,33765.26316
+KIA,SORENTO,2017,260.3157895,2.4,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,10.4,33765.26316
+KIA,SORENTO,2017,260.3157895,3.3,6,AS6,X,front wheel drive,4,Midsize,4dr SUV,11.1,33765.26316
+KIA,SORENTO,2017,260.3157895,2,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,10.3,33765.26316
+KIA,SORENTO,2017,260.3157895,2.4,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,9.8,33765.26316
+KIA,SORENTO,2017,260.3157895,2.4,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,9.9,33765.26316
+KIA,SOUL,2016,147,1.6,4,A6,X,front wheel drive,4,Compact,Wagon,8.9,18046.66667
+KIA,SOUL,2016,147,1.6,4,M6,X,front wheel drive,4,Compact,Wagon,9,18046.66667
+KIA,SOUL,2016,147,2,4,A6,X,front wheel drive,4,Compact,Wagon,9.1,18046.66667
+KIA,SOUL,2016,147,1.6,4,AS6,X,front wheel drive,4,Compact,Wagon,8.9,18046.66667
+KIA,SOUL,2016,147,2,4,AS6,X,front wheel drive,4,Compact,Wagon,9,18046.66667
+KIA,SOUL,2016,147,1.6,4,AS6,X,front wheel drive,4,Compact,Wagon,8.9,18046.66667
+KIA,SOUL,2016,147,1.6,4,M6,X,front wheel drive,4,Compact,Wagon,9,18046.66667
+KIA,SOUL,2016,147,2,4,AS6,X,front wheel drive,4,Compact,Wagon,8.8,18046.66667
+KIA,SOUL,2016,147,1.6,4,AS6,X,front wheel drive,4,Compact,Wagon,8.7,18046.66667
+KIA,SOUL,2016,147,1.6,4,M6,X,front wheel drive,4,Compact,Wagon,8.8,18046.66667
+KIA,SOUL,2016,147,2,4,AS6,X,front wheel drive,4,Compact,Wagon,8.7,18046.66667
+KIA,SOUL,2016,147,1.6,4,AM7,X,front wheel drive,4,Compact,Wagon,8.5,18046.66667
+KIA,SPORTAGE,2017,205.3888889,2.4,4,A6,X,all wheel drive,4,Compact,4dr SUV,10,26725.55556
+KIA,SPORTAGE,2017,205.3888889,2.4,4,M6,X,all wheel drive,4,Compact,4dr SUV,11.3,26725.55556
+KIA,SPORTAGE,2017,205.3888889,2.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,10,26725.55556
+KIA,SPORTAGE,2017,205.3888889,2.4,4,M6,X,all wheel drive,4,Compact,4dr SUV,11.3,26725.55556
+KIA,SPORTAGE,2017,205.3888889,2.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,10,26725.55556
+KIA,SPORTAGE,2017,205.3888889,2.4,4,M6,X,all wheel drive,4,Compact,4dr SUV,11.3,26725.55556
+KIA,SPORTAGE,2017,205.3888889,2.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,9.3,26725.55556
+KIA,SPORTAGE,2017,205.3888889,2.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,9.2,26725.55556
+KIA,Sedona,2017,276,3.3,6,AS8,X,front wheel drive,4,Midsize,Passenger Minivan,11.5,32976.66667
+KIA,Sedona,2017,276,3.3,6,AS8,X,front wheel drive,4,Midsize,Passenger Minivan,11.5,32976.66667
+KIA,Sorento,2017,260.3157895,2.4,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,9.6,33765.26316
+KIA,Soul,2016,147,1.6,4,AM7,X,front wheel drive,4,Compact,Wagon,8.5,18046.66667
+KIA,Soul,2016,147,1.6,4,AS6,X,front wheel drive,4,Compact,Wagon,8.4,18046.66667
+KIA,Soul,2016,147,2,4,AS6,X,front wheel drive,4,Compact,Wagon,8.7,18046.66667
+KIA,Soul,2016,147,2,4,AV,X,front wheel drive,4,Compact,Wagon,7.9,18046.66667
+KIA,Soul,2016,147,2,4,M6,X,front wheel drive,4,Compact,Wagon,8.7,18046.66667
+KIA,Sportage,2017,205.3888889,2.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,9.2,26725.55556
+KIA,Sportage,2017,205.3888889,2.4,4,AS6,X,all wheel drive,4,Compact,4dr SUV,9,26725.55556
+LAMBORGHINI,HURACAN,2016,602.5,5.2,10,AM7,Z,all wheel drive,2,Compact,Coupe,14.5,234475
+LAMBORGHINI,HURACAN,2016,602.5,5.2,10,AM7,Z,all wheel drive,2,Compact,Coupe,14.2,234475
+LAMBORGHINI,HURACAN,2016,602.5,5.2,10,AM7,Z,all wheel drive,2,Compact,Coupe,14.4,234475
+LAND ROVER,DISCOVERY SPORT,2017,240,2,4,AS9,Z,all wheel drive,4,Midsize,4dr SUV,10.6,41784.44444
+LAND ROVER,DISCOVERY SPORT,2017,240,2,4,AS9,Z,all wheel drive,4,Midsize,4dr SUV,10.7,41784.44444
+LAND ROVER,DISCOVERY SPORT,2017,240,2,4,AS9,Z,all wheel drive,4,Midsize,4dr SUV,10.5,41784.44444
+LAND ROVER,Discovery,2004,217,3,6,AS8,Z,four wheel drive,4,Midsize,4dr SUV,13.3,37791.66667
+LAND ROVER,Discovery Sport,2017,240,2,4,AS9,Z,all wheel drive,4,Midsize,4dr SUV,10.5,41784.44444
+LAND ROVER,LR2,2015,240,2,4,AS6,Z,all wheel drive,4,Compact,4dr SUV,11.9,39066.66667
+LAND ROVER,LR4,2016,340,3,6,AS8,Z,four wheel drive,4,Midsize,4dr SUV,14.5,56607.9
+LAND ROVER,LR4,2016,340,3,6,AS8,Z,four wheel drive,4,Midsize,4dr SUV,14.3,56607.9
+LAND ROVER,LR4,2016,340,3,6,AS8,Z,four wheel drive,4,Midsize,4dr SUV,14.3,56607.9
+LAND ROVER,RANGE ROVER,2016,449.0857143,3,6,AS8,Z,four wheel drive,4,Large,4dr SUV,12.3,118229.5714
+LAND ROVER,RANGE ROVER,2016,449.0857143,3,6,AS8,Z,four wheel drive,4,Large,4dr SUV,12.4,118229.5714
+LAND ROVER,RANGE ROVER EVOQUE,2017,240,2,4,AS9,Z,all wheel drive,3.428571429,Compact,4dr SUV,9.8,50522.32143
+LAND ROVER,RANGE ROVER EVOQUE,2017,240,2,4,AS9,Z,all wheel drive,3.428571429,Compact,4dr SUV,9.7,50522.32143
+LAND ROVER,RANGE ROVER EVOQUE,2017,240,2,4,AS9,Z,all wheel drive,3.428571429,Compact,4dr SUV,9.7,50522.32143
+LAND ROVER,RANGE ROVER EVOQUE,2017,240,2,4,AS9,Z,all wheel drive,3.428571429,Compact,4dr SUV,9.8,50522.32143
+LAND ROVER,RANGE ROVER EVOQUE,2017,240,2,4,AS9,Z,all wheel drive,3.428571429,Compact,4dr SUV,9.6,50522.32143
+LAND ROVER,RANGE ROVER SPORT,2016,428.25,3,6,AS8,Z,four wheel drive,4,Midsize,4dr SUV,12.4,80022.70833
+LAND ROVER,RANGE ROVER SPORT,2016,428.25,3,6,AS8,Z,four wheel drive,4,Midsize,4dr SUV,12.4,80022.70833
+LAND ROVER,Range Rover Evoque,2017,240,2,4,AS9,Z,all wheel drive,3.428571429,Compact,4dr SUV,9.6,50522.32143
+LEXUS,CT 200h,2017,134,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,5.6,31566.66667
+LEXUS,CT 200h,2017,134,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,5.7,31566.66667
+LEXUS,CT 200h,2017,134,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,5.7,31566.66667
+LEXUS,ES 300h,2017,200,2.5,4,AV6,X,front wheel drive,4,Midsize,Sedan,6,41140
+LEXUS,ES 300h,2017,200,2.5,4,AV6,X,front wheel drive,4,Midsize,Sedan,5.9,41140
+LEXUS,ES 300h,2017,200,2.5,4,AV6,X,front wheel drive,4,Midsize,Sedan,5.9,41140
+LEXUS,ES 300h,2017,200,2.5,4,AV6,X,front wheel drive,4,Midsize,Sedan,5.3,41140
+LEXUS,ES 300h,2017,200,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,5.3,41140
+LEXUS,ES 350,2017,268,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.6,38785
+LEXUS,ES 350,2017,268,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.6,38785
+LEXUS,ES 350,2017,268,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.7,38785
+LEXUS,ES 350,2017,268,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.7,38785
+LEXUS,ES 350,2017,268,3.5,6,AS8,X,front wheel drive,4,Midsize,Sedan,9.1,38785
+LEXUS,ES 350,2017,268,3.5,6,AS8,X,front wheel drive,4,Midsize,Sedan,9.1,38785
+LEXUS,GS 200t,2017,241,2,4,AS8,Z,rear wheel drive,4,Midsize,Sedan,9,49797.5
+LEXUS,GS 350,2017,309.1818182,3.5,6,AS8,Z,rear wheel drive,4,Midsize,Sedan,10.4,52623.63636
+LEXUS,GS 350,2017,309.1818182,3.5,6,AS8,Z,rear wheel drive,4,Midsize,Sedan,10.6,52623.63636
+LEXUS,GS 350,2017,309.1818182,3.5,6,AS8,Z,rear wheel drive,4,Midsize,Sedan,10.2,52623.63636
+LEXUS,GS 450h,2016,338,3.5,6,AV8,Z,rear wheel drive,4,Midsize,Sedan,7.6,61613.33333
+LEXUS,GS 450h,2016,338,3.5,6,AV8,Z,rear wheel drive,4,Midsize,Sedan,7.5,61613.33333
+LEXUS,GS 450h,2016,338,3.5,6,AV8,Z,rear wheel drive,4,Midsize,Sedan,7.6,61613.33333
+LEXUS,GS 450h,2016,338,3.5,6,AV8,Z,rear wheel drive,4,Midsize,Sedan,7.5,61613.33333
+LEXUS,GS F,2016,467,5,8,AS8,Z,rear wheel drive,4,Midsize,Sedan,12.5,84440
+LEXUS,GX 460,2017,301,4.6,8,AS6,Z,four wheel drive,4,Midsize,4dr SUV,13.9,56299.16667
+LEXUS,GX 460,2017,301,4.6,8,AS6,Z,four wheel drive,4,Midsize,4dr SUV,13.9,56299.16667
+LEXUS,GX 460,2017,301,4.6,8,AS6,Z,four wheel drive,4,Midsize,4dr SUV,13.9,56299.16667
+LEXUS,GX 460,2017,301,4.6,8,AS6,Z,four wheel drive,4,Midsize,4dr SUV,14.6,56299.16667
+LEXUS,GX 460,2017,301,4.6,8,AS6,Z,four wheel drive,4,Midsize,4dr SUV,14.5,56299.16667
+LEXUS,IS 200t,2017,241,2,4,AS8,Z,rear wheel drive,4,Midsize,Sedan,9,37575
+LEXUS,IS 200t,2017,241,2,4,AS8,Z,rear wheel drive,4,Midsize,Sedan,9.1,37575
+LEXUS,IS 250,2015,204,2.5,6,AS6,Z,all wheel drive,4,Midsize,Sedan,9.7,38511.25
+LEXUS,IS 250,2015,204,2.5,6,AS6,Z,all wheel drive,4,Midsize,Sedan,9.6,38511.25
+LEXUS,IS 250 C,2015,204,2.5,6,AS6,Z,rear wheel drive,2,Compact,Convertible,9.7,42943.33333
+LEXUS,IS 250 C,2015,204,2.5,6,AS6,Z,rear wheel drive,2,Compact,Convertible,9.6,42943.33333
+LEXUS,IS 300,2017,231,2,4,AS8,Z,rear wheel drive,4,Compact,Sedan,9.1,34369
+LEXUS,IS 300,2017,231,2,4,AS8,Z,rear wheel drive,4,Compact,Sedan,9.5,34369
+LEXUS,IS 350,2016,306,3.5,6,AS8,Z,all wheel drive,4,Midsize,Sedan,10.6,41289.16667
+LEXUS,IS 350,2016,306,3.5,6,AS8,Z,all wheel drive,4,Midsize,Sedan,10.6,41289.16667
+LEXUS,IS 350,2016,306,3.5,6,AS8,Z,all wheel drive,4,Midsize,Sedan,10.6,41289.16667
+LEXUS,IS 350 C,2015,306,3.5,6,AS6,Z,rear wheel drive,2,Compact,Convertible,10.6,47223.33333
+LEXUS,IS 350 C,2015,306,3.5,6,AS6,Z,rear wheel drive,2,Compact,Convertible,10.6,47223.33333
+LEXUS,IS F,2014,416,5,8,AS8,Z,rear wheel drive,4,Midsize,Sedan,12.6,62216.66667
+LEXUS,LS 460,2017,372.8571429,4.6,8,AS8,Z,all wheel drive,4,Large,Sedan,12.3,78523.57143
+LEXUS,LS 460,2017,372.8571429,4.6,8,AS8,Z,all wheel drive,4,Large,Sedan,12.3,78523.57143
+LEXUS,LS 460,2017,372.8571429,4.6,8,AS8,Z,all wheel drive,4,Large,Sedan,12.3,78523.57143
+LEXUS,LS 600h L,2016,438,5,8,AV8,Z,all wheel drive,4,Large,Sedan,11.4,120313.3333
+LEXUS,LS 600h L,2016,438,5,8,AV8,Z,all wheel drive,4,Large,Sedan,11.5,120313.3333
+LEXUS,LS 600h L,2016,438,5,8,AV8,Z,all wheel drive,4,Large,Sedan,11.5,120313.3333
+LEXUS,LX 570,2017,383,5.7,8,AS6,Z,four wheel drive,4,Large,4dr SUV,16.5,87146.66667
+LEXUS,LX 570,2017,383,5.7,8,AS6,Z,four wheel drive,4,Large,4dr SUV,16.6,87146.66667
+LEXUS,LX 570,2017,383,5.7,8,AS8,Z,four wheel drive,4,Large,4dr SUV,15.9,87146.66667
+LEXUS,LX 570,2017,383,5.7,8,AS8,Z,four wheel drive,4,Large,4dr SUV,15.8,87146.66667
+LEXUS,LX 570,2017,383,5.7,8,AS8,Z,four wheel drive,4,Large,4dr SUV,15.8,87146.66667
+LEXUS,LX 570,2017,383,5.7,8,AS8,Z,four wheel drive,4,Large,4dr SUV,16.9,87146.66667
+LEXUS,RC 200t,2017,241,2,4,AS8,Z,rear wheel drive,2,Midsize,Coupe,9,40075
+LEXUS,RC 350,2017,306,3.5,6,AS8,Z,all wheel drive,2,Midsize,Coupe,10.6,43965.83333
+LEXUS,RC 350,2017,306,3.5,6,AS8,Z,all wheel drive,2,Midsize,Coupe,10.6,43965.83333
+LEXUS,RC F,2017,467,5,8,AS8,Z,rear wheel drive,2,Midsize,Coupe,12.6,63123.33333
+LEXUS,RC F,2017,467,5,8,AS8,Z,rear wheel drive,2,Midsize,Coupe,12.6,63123.33333
+LEXUS,RC F,2017,467,5,8,AS8,Z,rear wheel drive,2,Midsize,Coupe,12.2,63123.33333
+LINCOLN,Aviator,2005,302,3,6,AS10,X,all wheel drive,4,Midsize,4dr SUV,11.9,42543
+LINCOLN,MKZ,2017,228,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9,40691.25
+LINCOLN,MKZ,2017,228,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.9,40691.25
+LINCOLN,MKZ,2017,228,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.9,40691.25
+LINCOLN,MKZ,2017,228,3.7,6,AS6,X,front wheel drive,4,Midsize,Sedan,10.9,40691.25
+LINCOLN,MKZ,2017,228,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,9.8,40691.25
+LINCOLN,MKZ,2017,228,3,6,AS6,X,front wheel drive,4,Midsize,Sedan,11.2,40691.25
+LINCOLN,MKZ HYBRID,2011,191,2,4,AV,X,front wheel drive,4,Midsize,Sedan,6.3,34645
+LINCOLN,MKZ HYBRID,2011,191,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.8,34645
+LINCOLN,MKZ HYBRID,2011,191,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.8,34645
+LINCOLN,MKZ HYBRID,2011,191,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.9,34645
+LINCOLN,MKZ Hybrid,2011,191,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.9,34645
+LINCOLN,MKZ Hybrid,2011,191,2,4,AV,X,front wheel drive,4,Midsize,Sedan,5.6,34645
+MASERATI,GHIBLI,2017,381.875,3,6,AS8,Z,rear wheel drive,4,Midsize,Sedan,12.7,75175
+MASERATI,GHIBLI,2017,381.875,3,6,AS8,Z,rear wheel drive,4,Midsize,Sedan,12.2,75175
+MASERATI,GHIBLI,2017,381.875,3,6,AS8,Z,rear wheel drive,4,Midsize,Sedan,12.4,75175
+MASERATI,GRANTURISMO,2016,454,4.7,8,AS6,Z,rear wheel drive,2,Large,Coupe,15.1,145993
+MASERATI,GRANTURISMO,2016,454,4.7,8,AS6,Z,rear wheel drive,2,Large,Coupe,15.1,145993
+MASERATI,GRANTURISMO,2016,454,4.7,8,AS6,Z,rear wheel drive,2,Large,Coupe,15.1,145993
+MASERATI,GRANTURISMO CONVERTIBLE,2016,451.2727273,4.7,8,AS6,Z,rear wheel drive,2,Midsize,Convertible,15.3,155824.3636
+MASERATI,GRANTURISMO CONVERTIBLE,2016,451.2727273,4.7,8,AS6,Z,rear wheel drive,2,Midsize,Convertible,15.2,155824.3636
+MASERATI,GRANTURISMO CONVERTIBLE,2016,451.2727273,4.7,8,AS6,Z,rear wheel drive,2,Midsize,Convertible,15.2,155824.3636
+MASERATI,GRANTURISMO CONVERTIBLE,2016,451.2727273,4.7,8,AS6,Z,rear wheel drive,2,Midsize,Convertible,15.2,155824.3636
+MASERATI,Ghibli,2017,381.875,3,6,AS8,Z,rear wheel drive,4,Midsize,Sedan,12.2,75175
+MASERATI,GranTurismo Convertible,2016,451.2727273,4.7,8,AS6,Z,rear wheel drive,2,Midsize,Convertible,15,155824.3636
+MASERATI,LEVANTE,2017,384.5,3,6,AS8,Z,all wheel drive,4,Large,4dr SUV,14.7,77500
+MASERATI,LEVANTE,2017,384.5,3,6,AS8,Z,all wheel drive,4,Large,4dr SUV,14.4,77500
+MASERATI,Levante,2017,384.5,3,6,AS8,Z,all wheel drive,4,Large,4dr SUV,13.7,77500
+MAZDA,CX-3,2017,146,2,4,AS6,X,all wheel drive,4,Compact,4dr SUV,7.6,22928.33333
+MAZDA,CX-3,2017,146,2,4,AS6,X,all wheel drive,4,Compact,4dr SUV,7.6,22928.33333
+MAZDA,CX-3,2017,146,2,4,AS6,X,all wheel drive,4,Compact,4dr SUV,7.6,22928.33333
+MAZDA,CX-3,2017,146,2,4,M6,X,all wheel drive,4,Compact,4dr SUV,8.1,22928.33333
+MAZDA,CX-3,2017,146,2,4,AS6,X,all wheel drive,4,Compact,4dr SUV,7.7,22928.33333
+MAZDA,CX-3,2017,146,2,4,M6,X,all wheel drive,4,Compact,4dr SUV,8,22928.33333
+MAZDA,CX-5,2016,176,2,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,8.2,25403.96552
+MAZDA,CX-5,2016,176,2,4,M6,X,front wheel drive,4,Midsize,4dr SUV,8,25403.96552
+MAZDA,CX-5,2016,176,2.5,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,8.6,25403.96552
+MAZDA,CX-5,2016,176,2,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,8.2,25403.96552
+MAZDA,CX-5,2016,176,2.5,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,8.1,25403.96552
+MAZDA,CX-5,2016,176,2,4,M6,X,front wheel drive,4,Midsize,4dr SUV,8.5,25403.96552
+MAZDA,CX-5,2016,176,2.5,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,8.6,25403.96552
+MAZDA,CX-5,2016,176,2.5,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,8.8,25403.96552
+MAZDA,CX-5,2016,176,2,4,M6,X,front wheel drive,4,Midsize,4dr SUV,8.8,25403.96552
+MAZDA,CX-5 ,2016,176,2,4,M6,X,front wheel drive,4,Midsize,4dr SUV,8.8,25403.96552
+MAZDA,CX-9,2016,256.0526316,3.7,6,AS6,X,all wheel drive,4,Large,4dr SUV,12.3,34961.84211
+MAZDA,CX-9,2016,256.0526316,2.5,4,AS6,X,all wheel drive,4,Large,4dr SUV,9.6,34961.84211
+MITSUBISHI,LANCER,2017,165.1666667,2,4,AV6,X,front wheel drive,4,Compact,Sedan,8.2,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2,4,M5,X,front wheel drive,4,Compact,Sedan,8.3,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2,4,AV6,X,front wheel drive,4,Compact,Sedan,8.2,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2,4,M5,X,front wheel drive,4,Compact,Sedan,8.4,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2,4,AV6,X,front wheel drive,4,Compact,Sedan,7.8,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2,4,M5,X,front wheel drive,4,Compact,Sedan,8.4,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2.4,4,AV6,X,front wheel drive,4,Compact,Sedan,8.8,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2.4,4,M5,X,front wheel drive,4,Compact,Sedan,9.2,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2,4,AV6,X,front wheel drive,4,Compact,Sedan,7.9,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2,4,M5,X,front wheel drive,4,Compact,Sedan,8.5,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2.4,4,AV6,X,front wheel drive,4,Compact,Sedan,8.9,20756.11111
+MITSUBISHI,LANCER,2017,165.1666667,2.4,4,M5,X,front wheel drive,4,Compact,Sedan,9.3,20756.11111
+MITSUBISHI,LANCER EVOLUTION,2015,292.7142857,2,4,AM6,Z,all wheel drive,4,Compact,Sedan,12.5,36752.14286
+MITSUBISHI,LANCER EVOLUTION,2015,292.7142857,2,4,M5,Z,all wheel drive,4,Compact,Sedan,12.3,36752.14286
+MITSUBISHI,LANCER SPORTBACK,2014,158,2,4,AV6,X,front wheel drive,4,Compact,4dr Hatchback,8.6,20045
+MITSUBISHI,LANCER SPORTBACK,2014,158,2,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,8.6,20045
+MITSUBISHI,LANCER SPORTBACK,2014,158,2,4,AV6,X,front wheel drive,4,Compact,4dr Hatchback,8.3,20045
+MITSUBISHI,LANCER SPORTBACK,2014,158,2,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,8.7,20045
+MITSUBISHI,LANCER SPORTBACK,2014,158,2,4,AV6,X,front wheel drive,4,Compact,4dr Hatchback,8.4,20045
+MITSUBISHI,LANCER SPORTBACK,2014,158,2,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,8.7,20045
+MITSUBISHI,MIRAGE,2017,75.42857143,1.2,3,AV,X,front wheel drive,4,Compact,4dr Hatchback,6,14470
+MITSUBISHI,MIRAGE,2017,75.42857143,1.2,3,M5,X,front wheel drive,4,Compact,4dr Hatchback,6.4,14470
+MITSUBISHI,MIRAGE,2017,75.42857143,1.2,3,AV,X,front wheel drive,4,Compact,4dr Hatchback,5.9,14470
+MITSUBISHI,MIRAGE,2017,75.42857143,1.2,3,M5,X,front wheel drive,4,Compact,4dr Hatchback,6.4,14470
+MITSUBISHI,MIRAGE,2017,75.42857143,1.2,3,AV,X,front wheel drive,4,Compact,4dr Hatchback,5.9,14470
+MITSUBISHI,MIRAGE,2017,75.42857143,1.2,3,M5,X,front wheel drive,4,Compact,4dr Hatchback,6.3,14470
+MITSUBISHI,MIRAGE,2017,75.42857143,1.2,3,AV,X,front wheel drive,4,Compact,4dr Hatchback,6,14470
+MITSUBISHI,MIRAGE,2017,75.42857143,1.2,3,M5,X,front wheel drive,4,Compact,4dr Hatchback,6.5,14470
+MITSUBISHI,MIRAGE G4,2017,78,1.2,3,AV,X,front wheel drive,4,Compact,Sedan,6.4,15395
+MITSUBISHI,MIRAGE G4,2017,78,1.2,3,M5,X,front wheel drive,4,Compact,Sedan,6.6,15395
+MITSUBISHI,Mirage,2017,75.42857143,1.2,3,AV,X,front wheel drive,4,Compact,4dr Hatchback,6.2,14470
+MITSUBISHI,Mirage,2017,75.42857143,1.2,3,M5,X,front wheel drive,4,Compact,4dr Hatchback,6.5,14470
+MITSUBISHI,Mirage G4,2017,78,1.2,3,AV,X,front wheel drive,4,Compact,Sedan,6.4,15395
+MITSUBISHI,Mirage G4,2017,78,1.2,3,M5,X,front wheel drive,4,Compact,Sedan,6.6,15395
+MITSUBISHI,OUTLANDER,2017,175.6666667,2.4,4,AV6,X,all wheel drive,4,Midsize,4dr SUV,8.6,25939.44444
+MITSUBISHI,OUTLANDER,2017,175.6666667,2.4,4,AV6,X,all wheel drive,4,Midsize,4dr SUV,8.4,25939.44444
+MITSUBISHI,OUTLANDER,2017,175.6666667,2.4,4,AV6,X,all wheel drive,4,Midsize,4dr SUV,8.4,25939.44444
+NISSAN,370Z,2017,336.2352941,3.7,6,AS7,Z,rear wheel drive,2,Compact,Coupe,11,40654.11765
+NISSAN,370Z,2017,336.2352941,3.7,6,M6,Z,rear wheel drive,2,Compact,Coupe,11.5,40654.11765
+NISSAN,370Z,2017,336.2352941,3.7,6,AS7,Z,rear wheel drive,2,Compact,Coupe,11.1,40654.11765
+NISSAN,370Z,2017,336.2352941,3.7,6,M6,Z,rear wheel drive,2,Compact,Coupe,11.5,40654.11765
+NISSAN,370Z,2017,336.2352941,3.7,6,AS7,Z,rear wheel drive,2,Compact,Coupe,11.1,40654.11765
+NISSAN,370Z,2017,336.2352941,3.7,6,M6,Z,rear wheel drive,2,Compact,Coupe,11.5,40654.11765
+NISSAN,ALTIMA,2017,218.0416667,2.5,4,AV,X,front wheel drive,4,Midsize,Sedan,7.6,26956.25
+NISSAN,ALTIMA,2017,218.0416667,3.5,6,AV,X,front wheel drive,4,Midsize,Sedan,9.3,26956.25
+NISSAN,ALTIMA,2017,218.0416667,3.5,6,AV,X,front wheel drive,4,Midsize,Sedan,9,26956.25
+NISSAN,ALTIMA,2017,218.0416667,2.5,4,AV,X,front wheel drive,4,Midsize,Sedan,7.5,26956.25
+NISSAN,ALTIMA,2017,218.0416667,2.5,4,AV,X,front wheel drive,4,Midsize,Sedan,7.5,26956.25
+NISSAN,ALTIMA,2017,218.0416667,3.5,6,AV7,X,front wheel drive,4,Midsize,Sedan,9.1,26956.25
+NISSAN,ALTIMA,2017,218.0416667,2.5,4,AV,X,front wheel drive,4,Midsize,Sedan,7.6,26956.25
+NISSAN,Altima,2017,218.0416667,2.5,4,AV,X,front wheel drive,4,Midsize,Sedan,7.4,26956.25
+NISSAN,FRONTIER,2017,243.7894737,2.5,4,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.3,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,2.5,4,M5,X,rear wheel drive,4,Compact,Crew Cab Pickup,11.3,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,4,6,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.7,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,4,6,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.7,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,2.5,4,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.1,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,2.5,4,M5,X,rear wheel drive,4,Compact,Crew Cab Pickup,11.3,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,4,6,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.7,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,2.5,4,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.2,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,2.5,4,M5,X,rear wheel drive,4,Compact,Crew Cab Pickup,11.4,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,4,6,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.9,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,2.5,4,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.3,27461.71053
+NISSAN,FRONTIER,2017,243.7894737,4,6,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.8,27461.71053
+NISSAN,Frontier,2017,243.7894737,2.5,4,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.3,27461.71053
+NISSAN,Frontier,2017,243.7894737,4,6,A5,X,rear wheel drive,4,Compact,Crew Cab Pickup,12.7,27461.71053
+NISSAN,Frontier,2017,243.7894737,3.8,6,AS9,X,rear wheel drive,4,Compact,Crew Cab Pickup,11.6,27461.71053
+NISSAN,GT-R,2017,561.25,3.8,6,AM6,Z,all wheel drive,2,Midsize,Coupe,12.9,119030
+NISSAN,GT-R,2017,561.25,3.8,6,AM6,Z,all wheel drive,2,Midsize,Coupe,12.6,119030
+NISSAN,GT-R,2017,561.25,3.8,6,AM6,Z,all wheel drive,2,Midsize,Coupe,12.6,119030
+NISSAN,GT-R,2017,561.25,3.8,6,AM6,Z,all wheel drive,2,Midsize,Coupe,12.8,119030
+NISSAN,GT-R,2017,561.25,3.8,6,AM6,Z,all wheel drive,2,Midsize,Coupe,12.6,119030
+NISSAN,GT-R,2017,561.25,3.8,6,AM6,Z,all wheel drive,2,Midsize,Coupe,12.8,119030
+NISSAN,JUKE,2017,193,1.6,4,AV,Z,all wheel drive,4,Compact,4dr Hatchback,8.1,25124.66667
+NISSAN,JUKE,2017,193,1.6,4,M6,Z,all wheel drive,4,Compact,4dr Hatchback,8.6,25124.66667
+NISSAN,JUKE,2017,193,1.6,4,AV7,X,all wheel drive,4,Compact,4dr Hatchback,7.9,25124.66667
+NISSAN,JUKE,2017,193,1.6,4,M6,X,all wheel drive,4,Compact,4dr Hatchback,7.7,25124.66667
+NISSAN,JUKE,2017,193,1.6,4,AV7,Z,all wheel drive,4,Compact,4dr Hatchback,7.9,25124.66667
+NISSAN,JUKE,2017,193,1.6,4,M6,Z,all wheel drive,4,Compact,4dr Hatchback,7.8,25124.66667
+NISSAN,JUKE,2017,193,1.6,4,AV7,Z,all wheel drive,4,Compact,4dr Hatchback,8,25124.66667
+NISSAN,JUKE,2017,193,1.6,4,M6,Z,all wheel drive,4,Compact,4dr Hatchback,8,25124.66667
+NISSAN,MAXIMA,2017,298.3333333,3.5,6,AV,Z,front wheel drive,4,Midsize,Sedan,10.9,35799.16667
+NISSAN,MAXIMA,2017,298.3333333,3.5,6,AV7,Z,front wheel drive,4,Midsize,Sedan,9.5,35799.16667
+NISSAN,MAXIMA,2017,298.3333333,3.5,6,AV7,Z,front wheel drive,4,Midsize,Sedan,9.6,35799.16667
+NISSAN,MAXIMA,2017,298.3333333,3.5,6,AV7,Z,front wheel drive,4,Midsize,Sedan,9.6,35799.16667
+NISSAN,MURANO,2017,258.5714286,3.5,6,AV7,X,all wheel drive,4,Midsize,4dr SUV,9.8,36381.42857
+NISSAN,MURANO,2017,258.5714286,3.5,6,AV7,X,all wheel drive,4,Midsize,4dr SUV,9.8,36381.42857
+NISSAN,MURANO,2017,258.5714286,3.5,6,AV7,X,all wheel drive,4,Midsize,4dr SUV,9.8,36381.42857
+NISSAN,Maxima,2017,298.3333333,3.5,6,AV7,Z,front wheel drive,4,Midsize,Sedan,9.9,35799.16667
+NISSAN,Murano,2017,258.5714286,3.5,6,AV7,X,all wheel drive,4,Midsize,4dr SUV,10.2,36381.42857
+NISSAN,PATHFINDER,2017,266.8571429,3.5,6,AV,X,four wheel drive,4,Large,4dr SUV,10.6,35520
+NISSAN,PATHFINDER,2017,266.8571429,3.5,6,AV,X,four wheel drive,4,Large,4dr SUV,10.4,35520
+NISSAN,PATHFINDER,2017,266.8571429,3.5,6,AV,X,four wheel drive,4,Large,4dr SUV,10.4,35520
+NISSAN,PATHFINDER,2017,266.8571429,3.5,6,AV,X,four wheel drive,4,Large,4dr SUV,10.2,35520
+NISSAN,Pathfinder,2017,266.8571429,3.5,6,AV,X,four wheel drive,4,Large,4dr SUV,10.2,35520
+NISSAN,QUEST,2016,260,3.5,6,AV,X,front wheel drive,4,Compact,Passenger Minivan,11.1,33443.33333
+NISSAN,QUEST,2016,260,3.5,6,AV,X,front wheel drive,4,Compact,Passenger Minivan,10.5,33443.33333
+NISSAN,ROGUE,2017,170,2.5,4,AV,X,all wheel drive,4,Midsize,4dr SUV,8.3,26121
+NISSAN,ROGUE,2017,170,2.5,4,AV,X,all wheel drive,4,Midsize,4dr SUV,8.2,26121
+NISSAN,ROGUE,2017,170,2.5,4,AV,X,all wheel drive,4,Midsize,4dr SUV,8.2,26121
+NISSAN,Rogue,2017,170,2.5,4,AV,X,all wheel drive,4,Midsize,4dr SUV,8.2,26121
+NISSAN,SENTRA,2017,134.8421053,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,7,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,7.8,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,7.2,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,7.9,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,7.2,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,7.9,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,7.3,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,8,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,7.3,19146.84211
+NISSAN,SENTRA,2017,134.8421053,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,8,19146.84211
+NISSAN,Sentra,2017,134.8421053,1.8,4,AV,X,front wheel drive,4,Midsize,Sedan,7.3,19146.84211
+NISSAN,Sentra,2017,134.8421053,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,7.8,19146.84211
+NISSAN,Sentra,2017,134.8421053,2,4,AV,X,front wheel drive,4,Midsize,Sedan,7.1,19146.84211
+NISSAN,Sentra,2017,134.8421053,2,4,M6,X,front wheel drive,4,Midsize,Sedan,8,19146.84211
+NISSAN,TITAN,2017,335.7714286,5.6,8,A5,X,four wheel drive,4,Large,Crew Cab Pickup,15.6,37958
+NISSAN,TITAN,2017,335.7714286,5.6,8,A5,X,four wheel drive,4,Large,Crew Cab Pickup,16.1,37958
+NISSAN,TITAN,2017,335.7714286,5.6,8,AS7,X,four wheel drive,4,Large,Crew Cab Pickup,13.3,37958
+NISSAN,Titan,2017,335.7714286,5.6,8,AS7,X,four wheel drive,4,Large,Crew Cab Pickup,13.3,37958
+NISSAN,VERSA,2017,109,1.6,4,AV,X,front wheel drive,4,Compact,Sedan,6.6,14660.625
+NISSAN,VERSA,2017,109,1.6,4,M5,X,front wheel drive,4,Compact,Sedan,7.7,14660.625
+NISSAN,VERSA,2017,109,1.6,4,AV,X,front wheel drive,4,Compact,Sedan,6.8,14660.625
+NISSAN,VERSA,2017,109,1.6,4,AV,X,front wheel drive,4,Compact,Sedan,6.8,14660.625
+NISSAN,VERSA,2017,109,1.6,4,M5,X,front wheel drive,4,Compact,Sedan,7.6,14660.625
+NISSAN,VERSA,2017,109,1.6,4,AV,X,front wheel drive,4,Compact,Sedan,7,14660.625
+NISSAN,VERSA,2017,109,1.6,4,M5,X,front wheel drive,4,Compact,Sedan,7.7,14660.625
+NISSAN,Versa,2017,109,1.6,4,AV,X,front wheel drive,4,Compact,Sedan,7,14660.625
+NISSAN,Versa,2017,109,1.6,4,M5,X,front wheel drive,4,Compact,Sedan,7.7,14660.625
+NISSAN,Versa,2017,109,1.6,4,AV,X,front wheel drive,4,Compact,Sedan,6.7,14660.625
+NISSAN,Versa,2017,109,1.6,4,M5,X,front wheel drive,4,Compact,Sedan,7.7,14660.625
+PORSCHE,BOXSTER,2016,300,2.7,6,AM7,Z,rear wheel drive,2,Compact,Convertible,9.2,61412.5
+PORSCHE,BOXSTER,2016,300,2.7,6,M6,Z,rear wheel drive,2,Compact,Convertible,9.9,61412.5
+PORSCHE,BOXSTER,2016,300,2.7,6,AM7,Z,rear wheel drive,2,Compact,Convertible,9.2,61412.5
+PORSCHE,BOXSTER,2016,300,2.7,6,M6,Z,rear wheel drive,2,Compact,Convertible,9.9,61412.5
+PORSCHE,BOXSTER,2016,300,2,4,AM7,Z,rear wheel drive,2,Compact,Convertible,9.4,61412.5
+PORSCHE,BOXSTER,2016,300,2,4,M6,Z,rear wheel drive,2,Compact,Convertible,9.8,61412.5
+PORSCHE,Boxster,2016,300,2,4,AM7,Z,rear wheel drive,2,Compact,Convertible,9.4,61412.5
+PORSCHE,Boxster,2016,300,2,4,M6,Z,rear wheel drive,2,Compact,Convertible,9.8,61412.5
+PORSCHE,CAYENNE,2017,422.8571429,3.6,6,A8,Z,all wheel drive,4,Midsize,4dr SUV,12.4,94385.71429
+PORSCHE,CAYENNE,2017,422.8571429,3.6,6,M6,Z,all wheel drive,4,Midsize,4dr SUV,13.6,94385.71429
+PORSCHE,CAYENNE,2017,422.8571429,3.6,6,A8,Z,all wheel drive,4,Midsize,4dr SUV,11.8,94385.71429
+PORSCHE,CAYENNE,2017,422.8571429,3.6,6,A8,Z,all wheel drive,4,Midsize,4dr SUV,11.5,94385.71429
+PORSCHE,CAYMAN,2016,310,2.7,6,AM7,Z,rear wheel drive,2,Compact,Coupe,9.2,62487.5
+PORSCHE,CAYMAN,2016,310,2.7,6,M6,Z,rear wheel drive,2,Compact,Coupe,9.9,62487.5
+PORSCHE,CAYMAN,2016,310,2.7,6,AM7,Z,rear wheel drive,2,Compact,Coupe,9.2,62487.5
+PORSCHE,CAYMAN,2016,310,2.7,6,M6,Z,rear wheel drive,2,Compact,Coupe,9.9,62487.5
+PORSCHE,CAYMAN,2016,310,2,4,AM7,Z,rear wheel drive,2,Compact,Coupe,9.4,62487.5
+PORSCHE,CAYMAN,2016,310,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.8,62487.5
+PORSCHE,CAYMAN S,2006,295,3.4,6,AM7,Z,rear wheel drive,2,Compact,Coupe,9.8,58900
+PORSCHE,CAYMAN S,2006,295,3.4,6,M6,Z,rear wheel drive,2,Compact,Coupe,10.4,58900
+PORSCHE,CAYMAN S,2006,295,3.4,6,AM7,Z,rear wheel drive,2,Compact,Coupe,9.8,58900
+PORSCHE,CAYMAN S,2006,295,3.4,6,M6,Z,rear wheel drive,2,Compact,Coupe,10.4,58900
+PORSCHE,CAYMAN S,2006,295,2.5,4,AM7,Z,rear wheel drive,2,Compact,Coupe,9.9,58900
+PORSCHE,CAYMAN S,2006,295,2.5,4,M6,Z,rear wheel drive,2,Compact,Coupe,10.7,58900
+PORSCHE,Cayenne,2017,422.8571429,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,11.4,94385.71429
+PORSCHE,Cayenne,2017,422.8571429,3,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,11.5,94385.71429
+PORSCHE,Cayman,2016,310,2,4,AM7,Z,rear wheel drive,2,Compact,Coupe,9.4,62487.5
+PORSCHE,Cayman,2016,310,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.8,62487.5
+PORSCHE,Cayman S,2006,295,2.5,4,AM7,Z,rear wheel drive,2,Compact,Coupe,9.9,58900
+PORSCHE,Cayman S,2006,295,2.5,4,M6,Z,rear wheel drive,2,Compact,Coupe,10.7,58900
+PORSCHE,MACAN,2017,354,2,4,A7,Z,all wheel drive,4,Midsize,4dr SUV,10.6,61725
+PORSCHE,Macan,2017,354,2,4,AM7,Z,all wheel drive,4,Midsize,4dr SUV,11.3,61725
+PORSCHE,PANAMERA,2016,437.2727273,3.6,6,AM7,Z,all wheel drive,4,Large,Sedan,10.9,123340.9091
+PORSCHE,PANAMERA,2016,437.2727273,3.6,6,AM7,Z,all wheel drive,4,Large,Sedan,10.9,123340.9091
+PORSCHE,PANAMERA,2016,437.2727273,3,6,AM8,Z,all wheel drive,4,Large,Sedan,9.8,123340.9091
+PORSCHE,Panamera,2016,437.2727273,3,6,AM8,Z,all wheel drive,4,Large,Sedan,10.7,123340.9091
+ROLLS-ROYCE,DAWN,2016,563,6.6,12,AS8,Z,rear wheel drive,2,Large,Convertible,16.7,335000
+ROLLS-ROYCE,DAWN,2016,563,6.6,12,AS8,Z,rear wheel drive,2,Large,Convertible,17,335000
+ROLLS-ROYCE,Dawn,2016,563,6.6,12,AS8,Z,rear wheel drive,2,Large,Convertible,17,335000
+ROLLS-ROYCE,Dawn,2016,563,6.6,12,AS8,Z,rear wheel drive,2,Large,Convertible,17.1,335000
+ROLLS-ROYCE,GHOST,2014,563,6.6,12,A8,Z,rear wheel drive,4,Large,Sedan,16,276525
+ROLLS-ROYCE,GHOST,2014,563,6.6,12,AS8,Z,rear wheel drive,4,Large,Sedan,16.1,276525
+ROLLS-ROYCE,GHOST,2014,563,6.6,12,AS8,Z,rear wheel drive,4,Large,Sedan,16.1,276525
+ROLLS-ROYCE,GHOST,2014,563,6.6,12,AS8,Z,rear wheel drive,4,Large,Sedan,16.7,276525
+ROLLS-ROYCE,GHOST,2014,563,6.6,12,AS8,Z,rear wheel drive,4,Large,Sedan,17,276525
+ROLLS-ROYCE,Ghost,2014,563,6.6,12,AS8,Z,rear wheel drive,4,Large,Sedan,17,276525
+ROLLS-ROYCE,Ghost,2014,563,6.6,12,AS8,Z,rear wheel drive,4,Large,Sedan,17.1,276525
+ROLLS-ROYCE,PHANTOM,2016,453,6.7,12,A8,Z,rear wheel drive,4,Large,Sedan,17.1,445959.1667
+ROLLS-ROYCE,PHANTOM,2016,453,6.7,12,AS8,Z,rear wheel drive,4,Large,Sedan,17.2,445959.1667
+ROLLS-ROYCE,PHANTOM,2016,453,6.7,12,AS8,Z,rear wheel drive,4,Large,Sedan,17.2,445959.1667
+ROLLS-ROYCE,PHANTOM,2016,453,6.7,12,AS8,Z,rear wheel drive,4,Large,Sedan,17.1,445959.1667
+ROLLS-ROYCE,PHANTOM,2016,453,6.7,12,AS8,Z,rear wheel drive,4,Large,Sedan,16.6,445959.1667
+ROLLS-ROYCE,PHANTOM COUPE,2016,453,6.7,12,A8,Z,rear wheel drive,2,Large,Coupe,17.1,440466.6667
+ROLLS-ROYCE,PHANTOM COUPE,2016,453,6.7,12,AS8,Z,rear wheel drive,2,Large,Coupe,17.2,440466.6667
+ROLLS-ROYCE,PHANTOM COUPE,2016,453,6.7,12,AS8,Z,rear wheel drive,2,Large,Coupe,17.2,440466.6667
+ROLLS-ROYCE,PHANTOM COUPE,2016,453,6.7,12,AS8,Z,rear wheel drive,2,Large,Coupe,17.1,440466.6667
+ROLLS-ROYCE,PHANTOM DROPHEAD COUPE,2016,453,6.7,12,A8,Z,rear wheel drive,2,Large,Convertible,17.1,482125
+ROLLS-ROYCE,PHANTOM DROPHEAD COUPE,2016,453,6.7,12,AS8,Z,rear wheel drive,2,Large,Convertible,17.2,482125
+ROLLS-ROYCE,PHANTOM DROPHEAD COUPE,2016,453,6.7,12,AS8,Z,rear wheel drive,2,Large,Convertible,17.2,482125
+ROLLS-ROYCE,PHANTOM DROPHEAD COUPE,2016,453,6.7,12,AS8,Z,rear wheel drive,2,Large,Convertible,17.1,482125
+ROLLS-ROYCE,Phantom,2016,453,6.7,12,AS8,Z,rear wheel drive,4,Large,Sedan,16.3,445959.1667
+ROLLS-ROYCE,WRAITH,2016,624,6.6,12,A8,Z,rear wheel drive,2,Large,Coupe,15.6,294425
+ROLLS-ROYCE,WRAITH,2016,624,6.6,12,AS8,Z,rear wheel drive,2,Large,Coupe,15.6,294425
+ROLLS-ROYCE,WRAITH,2016,624,6.6,12,AS8,Z,rear wheel drive,2,Large,Coupe,15.6,294425
+ROLLS-ROYCE,WRAITH,2016,624,6.6,12,AS8,Z,rear wheel drive,2,Large,Coupe,16.1,294425
+ROLLS-ROYCE,WRAITH,2016,624,6.6,12,AS8,Z,rear wheel drive,2,Large,Coupe,16.6,294425
+ROLLS-ROYCE,Wraith,2016,624,6.6,12,AS8,Z,rear wheel drive,2,Large,Coupe,16.6,294425
+ROLLS-ROYCE,Wraith,2016,624,6.6,12,AS8,Z,rear wheel drive,2,Large,Coupe,16.5,294425
+SCION,FR-S,2016,200,2,4,AS6,Z,rear wheel drive,2,Compact,Coupe,8.4,27517.5
+SCION,FR-S,2016,200,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.5,27517.5
+SCION,FR-S,2016,200,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.6,27517.5
+SCION,FR-S,2016,200,2,4,AS6,Z,rear wheel drive,2,Compact,Coupe,8.4,27517.5
+SCION,FR-S,2016,200,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.6,27517.5
+SCION,iM,2016,137,1.8,4,AV7,X,front wheel drive,4,Compact,4dr Hatchback,7.4,18830
+SCION,iM,2016,137,1.8,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.7,18830
+SCION,iQ,2015,94,1.3,4,AV,X,front wheel drive,2,Compact,2dr Hatchback,6.2,16168.75
+SCION,iQ,2015,94,1.3,4,AV,X,front wheel drive,2,Compact,2dr Hatchback,6.4,16168.75
+SCION,tC,2016,179,2.5,4,AS6,X,front wheel drive,2,Compact,2dr Hatchback,9,21546.42857
+SCION,tC,2016,179,2.5,4,M6,X,front wheel drive,2,Compact,2dr Hatchback,9,21546.42857
+SCION,tC,2016,179,2.5,4,AS6,X,front wheel drive,2,Compact,2dr Hatchback,9,21546.42857
+SCION,tC,2016,179,2.5,4,M6,X,front wheel drive,2,Compact,2dr Hatchback,9,21546.42857
+SCION,tC,2016,179,2.5,4,AS6,X,front wheel drive,2,Compact,2dr Hatchback,9,21546.42857
+SCION,tC,2016,179,2.5,4,M6,X,front wheel drive,2,Compact,2dr Hatchback,9,21546.42857
+SCION,xB,2015,158,2.4,4,AS4,X,front wheel drive,4,Compact,Wagon,9.9,18444.5
+SCION,xB,2015,158,2.4,4,M5,X,front wheel drive,4,Compact,Wagon,9.9,18444.5
+SCION,xB,2015,158,2.4,4,AS4,X,front wheel drive,4,Compact,Wagon,9.8,18444.5
+SCION,xB,2015,158,2.4,4,M5,X,front wheel drive,4,Compact,Wagon,9.8,18444.5
+SCION,xD,2014,128,1.8,4,A4,X,front wheel drive,4,Compact,4dr Hatchback,8,16683
+SCION,xD,2014,128,1.8,4,M5,X,front wheel drive,4,Compact,4dr Hatchback,7.9,16683
+SUBARU,BRZ,2017,201.25,2,4,AS6,Z,rear wheel drive,2,Compact,Coupe,8.5,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.6,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,AS6,Z,rear wheel drive,2,Compact,Coupe,8.4,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.6,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,AS6,Z,rear wheel drive,2,Compact,Coupe,8.4,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.6,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,AS6,Z,rear wheel drive,2,Compact,Coupe,8.6,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.7,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.8,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.9,27685.83333
+SUBARU,BRZ,2017,201.25,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.9,27685.83333
+SUBARU,WRX,2017,282.8,2,4,AV8,Z,all wheel drive,4,Compact,Sedan,11.1,32863
+SUBARU,WRX,2017,282.8,2,4,M6,Z,all wheel drive,4,Compact,Sedan,9.8,32863
+SUBARU,WRX,2017,282.8,2.5,4,M6,Z,all wheel drive,4,Compact,Sedan,12.2,32863
+SUBARU,WRX,2017,282.8,2,4,AV8,Z,all wheel drive,4,Compact,Sedan,11.2,32863
+SUBARU,WRX,2017,282.8,2,4,M6,Z,all wheel drive,4,Compact,Sedan,10,32863
+SUBARU,WRX,2017,282.8,2.5,4,M6,Z,all wheel drive,4,Compact,Sedan,12.2,32863
+TOYOTA,86,2017,202.5,2,4,AS6,Z,rear wheel drive,2,Compact,Coupe,8.7,26615
+TOYOTA,86,2017,202.5,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.9,26615
+TOYOTA,86,2017,202.5,2,4,M6,Z,rear wheel drive,2,Compact,Coupe,9.9,26615
+TOYOTA,AVALON,2017,268,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.6,36230.33333
+TOYOTA,AVALON,2017,268,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.6,36230.33333
+TOYOTA,AVALON,2017,268,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.7,36230.33333
+TOYOTA,AVALON,2017,268,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.7,36230.33333
+TOYOTA,Avalon,2017,268,3.5,6,AS8,X,front wheel drive,4,Midsize,Sedan,9.4,36230.33333
+TOYOTA,CAMRY,2017,206.4210526,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.2,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.6,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.4,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.5,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.2,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.5,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,2.5,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.6,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,3.5,6,AS6,X,front wheel drive,4,Midsize,Sedan,9.6,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,2.5,4,AS8,X,front wheel drive,4,Midsize,Sedan,6.9,26952.89474
+TOYOTA,CAMRY,2017,206.4210526,3.5,6,AS8,X,front wheel drive,4,Midsize,Sedan,9,26952.89474
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,A4,X,front wheel drive,4,Compact,Sedan,7.7,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,AV7,X,front wheel drive,4,Compact,Sedan,7.3,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,AV,X,front wheel drive,4,Compact,Sedan,7.1,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.4,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,A4,X,front wheel drive,4,Compact,Sedan,7.6,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,AV7,X,front wheel drive,4,Compact,Sedan,7.1,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,AV,X,front wheel drive,4,Compact,Sedan,7.3,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.4,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,A4,X,front wheel drive,4,Compact,Sedan,7.6,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,AV,X,front wheel drive,4,Compact,Sedan,7.3,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,AV7,X,front wheel drive,4,Compact,Sedan,7.1,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.5,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,AV,X,front wheel drive,4,Compact,Sedan,7.5,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,AV7,X,front wheel drive,4,Compact,Sedan,7.5,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.5,20221.17647
+TOYOTA,COROLLA,2017,133.8823529,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.6,20221.17647
+TOYOTA,COROLLA iM,2017,137,1.8,4,AV7,X,front wheel drive,4,Compact,4dr Hatchback,7.5,19120
+TOYOTA,COROLLA iM,2017,137,1.8,4,M6,X,front wheel drive,4,Compact,4dr Hatchback,7.9,19120
+TOYOTA,Camry,2017,206.4210526,2.5,4,AS8,X,front wheel drive,4,Midsize,Sedan,6.9,26952.89474
+TOYOTA,Camry,2017,206.4210526,3.5,6,AS8,X,front wheel drive,4,Midsize,Sedan,9,26952.89474
+TOYOTA,Corolla,2017,133.8823529,1.8,4,AV,X,front wheel drive,4,Compact,Sedan,7.5,20221.17647
+TOYOTA,Corolla,2017,133.8823529,1.8,4,AV7,X,front wheel drive,4,Compact,Sedan,7.6,20221.17647
+TOYOTA,Corolla,2017,133.8823529,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.6,20221.17647
+TOYOTA,Corolla,2017,133.8823529,1.8,4,AV,X,front wheel drive,4,Compact,Sedan,7.1,20221.17647
+TOYOTA,Corolla,2017,133.8823529,1.8,4,M6,X,front wheel drive,4,Compact,Sedan,7.1,20221.17647
+TOYOTA,Corolla,2017,133.8823529,2,4,AV10,X,front wheel drive,4,Compact,Sedan,6.7,20221.17647
+TOYOTA,Corolla,2017,133.8823529,2,4,M6,X,front wheel drive,4,Compact,Sedan,7.4,20221.17647
+TOYOTA,HIGHLANDER,2016,262.2727273,2.7,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,10.3,37219.77273
+TOYOTA,HIGHLANDER,2016,262.2727273,3.5,6,AS6,X,front wheel drive,4,Midsize,4dr SUV,11.2,37219.77273
+TOYOTA,HIGHLANDER,2016,262.2727273,2.7,4,AS6,X,front wheel drive,4,Midsize,4dr SUV,10.7,37219.77273
+TOYOTA,HIGHLANDER,2016,262.2727273,3.5,6,AS6,X,front wheel drive,4,Midsize,4dr SUV,11.1,37219.77273
+TOYOTA,HIGHLANDER,2016,262.2727273,3.5,6,AS6,X,front wheel drive,4,Midsize,4dr SUV,11.1,37219.77273
+TOYOTA,HIGHLANDER,2016,262.2727273,3.5,6,AS8,X,front wheel drive,4,Midsize,4dr SUV,10.3,37219.77273
+TOYOTA,Highlander,2016,262.2727273,3.5,6,AS8,X,front wheel drive,4,Midsize,4dr SUV,10.3,37219.77273
+TOYOTA,Highlander,2016,262.2727273,3.5,6,AS8,X,front wheel drive,4,Midsize,4dr SUV,10.3,37219.77273
+TOYOTA,PRIUS,2017,125.3333333,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.8,26908.61111
+TOYOTA,PRIUS,2017,125.3333333,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.7,26908.61111
+TOYOTA,PRIUS,2017,125.3333333,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.5,26908.61111
+TOYOTA,PRIUS,2017,125.3333333,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.5,26908.61111
+TOYOTA,PRIUS,2017,125.3333333,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.5,26908.61111
+TOYOTA,PRIUS c,2016,99,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.7,21377.69231
+TOYOTA,PRIUS c,2016,99,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.8,21377.69231
+TOYOTA,PRIUS c,2016,99,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.7,21377.69231
+TOYOTA,PRIUS c,2016,99,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,5.1,21377.69231
+TOYOTA,PRIUS v,2017,134,1.8,4,AV,X,front wheel drive,4,Midsize,Wagon,5.5,28841.25
+TOYOTA,PRIUS v,2017,134,1.8,4,AV,X,front wheel drive,4,Midsize,Wagon,5.6,28841.25
+TOYOTA,PRIUS v,2017,134,1.8,4,AV,X,front wheel drive,4,Midsize,Wagon,5.6,28841.25
+TOYOTA,PRIUS v,2017,134,1.8,4,AV,X,front wheel drive,4,Midsize,Wagon,5.8,28841.25
+TOYOTA,Prius,2017,125.3333333,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.4,26908.61111
+TOYOTA,Prius,2017,125.3333333,1.8,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,4.5,26908.61111
+TOYOTA,Prius c,2016,99,1.5,4,AV,X,front wheel drive,4,Compact,4dr Hatchback,5.1,21377.69231
+TOYOTA,RAV4,2017,176,2.5,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,8.9,28789.16667
+TOYOTA,RAV4,2017,176,2.5,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,9,28789.16667
+TOYOTA,RAV4,2017,176,2.5,4,AS6,X,all wheel drive,4,Midsize,4dr SUV,9.2,28789.16667
+TOYOTA,RAV4,2017,176,2.5,4,AS8,X,all wheel drive,4,Midsize,4dr SUV,7.8,28789.16667
+TOYOTA,RAV4,2017,176,2.5,4,AS8,X,all wheel drive,4,Midsize,4dr SUV,7.9,28789.16667
+TOYOTA,SIENNA,2017,276,3.5,6,AS6,X,front wheel drive,4,Large,Passenger Minivan,11.3,37672.84314
+TOYOTA,SIENNA,2017,276,3.5,6,AS6,X,front wheel drive,4,Large,Passenger Minivan,11.4,37672.84314
+TOYOTA,SIENNA,2017,276,3.5,6,AS6,X,front wheel drive,4,Large,Passenger Minivan,11.4,37672.84314
+TOYOTA,SIENNA,2017,276,3.5,6,AS8,X,front wheel drive,4,Large,Passenger Minivan,10.9,37672.84314
+TOYOTA,SIENNA,2017,276,3.5,6,AS8,X,front wheel drive,4,Large,Passenger Minivan,10.9,37672.84314
+TOYOTA,Sienna,2017,276,3.5,6,AS8,X,front wheel drive,4,Large,Passenger Minivan,10.8,37672.84314
+TOYOTA,Sienna,2017,276,3.5,6,AS8,X,front wheel drive,4,Large,Passenger Minivan,11,37672.84314
+TOYOTA,TACOMA,2017,240.4625,2.7,4,A4,X,four wheel drive,4,Compact,Crew Cab Pickup,10.9,30318.4375
+TOYOTA,TACOMA,2017,240.4625,2.7,4,M5,X,four wheel drive,4,Compact,Crew Cab Pickup,10.2,30318.4375
+TOYOTA,TACOMA,2017,240.4625,4,6,M6,X,four wheel drive,4,Compact,Crew Cab Pickup,13.1,30318.4375
+TOYOTA,TACOMA,2017,240.4625,2.7,4,A4,X,four wheel drive,4,Compact,Crew Cab Pickup,11.2,30318.4375
+TOYOTA,TACOMA,2017,240.4625,2.7,4,M5,X,four wheel drive,4,Compact,Crew Cab Pickup,10.5,30318.4375
+TOYOTA,TACOMA,2017,240.4625,2.7,4,AS6,X,four wheel drive,4,Compact,Crew Cab Pickup,11.1,30318.4375
+TOYOTA,TACOMA,2017,240.4625,3.5,6,AS6,X,four wheel drive,4,Compact,Crew Cab Pickup,11.4,30318.4375
+TOYOTA,TACOMA,2017,240.4625,2.7,4,AS6,X,four wheel drive,4,Compact,Crew Cab Pickup,11.2,30318.4375
+TOYOTA,TACOMA,2017,240.4625,3.5,6,AS6,X,four wheel drive,4,Compact,Crew Cab Pickup,11.4,30318.4375
+TOYOTA,TUNDRA,2017,371.8714286,4,6,AS5,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,13.5,37844.25
+TOYOTA,TUNDRA,2017,371.8714286,4.6,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,14.3,37844.25
+TOYOTA,TUNDRA,2017,371.8714286,5.7,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,15.5,37844.25
+TOYOTA,TUNDRA,2017,371.8714286,5.7,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,15.2,37844.25
+TOYOTA,TUNDRA,2017,371.8714286,4.6,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,14.3,37844.25
+TOYOTA,TUNDRA,2017,371.8714286,5.7,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,15.4,37844.25
+TOYOTA,TUNDRA,2017,371.8714286,4.6,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,14.2,37844.25
+TOYOTA,TUNDRA,2017,371.8714286,5.7,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,15.3,37844.25
+TOYOTA,TUNDRA,2017,371.8714286,5.7,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,15.9,37844.25
+TOYOTA,Tacoma,2017,240.4625,2.7,4,AS6,X,four wheel drive,4,Compact,Crew Cab Pickup,11.2,30318.4375
+TOYOTA,Tundra,2017,371.8714286,5.7,8,AS6,X,four wheel drive,3.842857143,Large,Extended Cab Pickup,15.9,37844.25
+TOYOTA,VENZA,2015,229.3333333,2.7,4,AS6,X,all wheel drive,4,Midsize,Wagon,10,33031.85185
+TOYOTA,VENZA,2015,229.3333333,3.5,6,AS6,X,all wheel drive,4,Midsize,Wagon,11,33031.85185
+TOYOTA,VENZA,2015,229.3333333,2.7,4,AS6,X,all wheel drive,4,Midsize,Wagon,10.4,33031.85185
+TOYOTA,VENZA,2015,229.3333333,3.5,6,AS6,X,all wheel drive,4,Midsize,Wagon,10.9,33031.85185
+TOYOTA,VENZA,2015,229.3333333,2.7,4,AS6,X,all wheel drive,4,Midsize,Wagon,10.4,33031.85185
+TOYOTA,VENZA,2015,229.3333333,3.5,6,AS6,X,all wheel drive,4,Midsize,Wagon,10.9,33031.85185
+TOYOTA,YARIS,2017,106,1.5,4,A4,X,front wheel drive,3.142857143,Compact,4dr Hatchback,7.3,16463.80952
+TOYOTA,YARIS,2017,106,1.5,4,M5,X,front wheel drive,3.142857143,Compact,4dr Hatchback,7.1,16463.80952
+TOYOTA,YARIS,2017,106,1.5,4,A4,X,front wheel drive,3.142857143,Compact,4dr Hatchback,7.3,16463.80952
+TOYOTA,YARIS,2017,106,1.5,4,M5,X,front wheel drive,3.142857143,Compact,4dr Hatchback,7.1,16463.80952
+TOYOTA,YARIS,2017,106,1.5,4,AS6,X,front wheel drive,3.142857143,Compact,4dr Hatchback,6.4,16463.80952
+TOYOTA,YARIS,2017,106,1.5,4,AS6,X,front wheel drive,3.142857143,Compact,4dr Hatchback,6.6,16463.80952
+TOYOTA,Yaris,2017,106,1.5,4,AS6,X,front wheel drive,3.142857143,Compact,4dr Hatchback,6.6,16463.80952
+TOYOTA,Yaris,2017,106,1.5,4,AS6,X,front wheel drive,3.142857143,Compact,4dr Hatchback,6.6,16463.80952
+VOLKSWAGEN,BEETLE,2017,183.3333333,1.8,4,A6,X,front wheel drive,2,Compact,2dr Hatchback,8.5,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,1.8,4,M5,X,front wheel drive,2,Compact,2dr Hatchback,8.7,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,2,4,A6,Z,front wheel drive,2,Compact,2dr Hatchback,9.1,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,2,4,M6,Z,front wheel drive,2,Compact,2dr Hatchback,9.4,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,2.5,5,A6,X,front wheel drive,2,Compact,2dr Hatchback,9.8,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,2.5,5,M5,X,front wheel drive,2,Compact,2dr Hatchback,9.6,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,1.8,4,AS6,X,front wheel drive,2,Compact,2dr Hatchback,8.5,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,2,4,AM6,Z,front wheel drive,2,Compact,2dr Hatchback,9.1,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,2,4,M6,Z,front wheel drive,2,Compact,2dr Hatchback,9.2,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,1.8,4,AS6,X,front wheel drive,2,Compact,2dr Hatchback,8.4,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,1.8,4,M5,X,front wheel drive,2,Compact,2dr Hatchback,8.4,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,1.8,4,AS6,X,front wheel drive,2,Compact,2dr Hatchback,8.5,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,1.8,4,M5,X,front wheel drive,2,Compact,2dr Hatchback,8.4,26100.93333
+VOLKSWAGEN,BEETLE,2017,183.3333333,2,4,AS6,X,front wheel drive,2,Compact,2dr Hatchback,8.2,26100.93333
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,1.8,4,A6,X,front wheel drive,2,Compact,Convertible,8.7,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,2,4,A6,Z,front wheel drive,2,Compact,Convertible,9.3,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,2,4,M6,Z,front wheel drive,2,Compact,Convertible,9.4,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,2.5,5,A6,X,front wheel drive,2,Compact,Convertible,10.1,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,1.8,4,AS6,X,front wheel drive,2,Compact,Convertible,8.7,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,2,4,AM6,Z,front wheel drive,2,Compact,Convertible,9.4,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,2,4,M6,Z,front wheel drive,2,Compact,Convertible,9.2,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,1.8,4,AS6,X,front wheel drive,2,Compact,Convertible,8.4,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,1.8,4,AS6,X,front wheel drive,2,Compact,Convertible,8.5,30491.96629
+VOLKSWAGEN,BEETLE CONVERTIBLE,2016,186.2921348,2,4,AS6,X,front wheel drive,2,Compact,Convertible,8.2,30491.96629
+VOLKSWAGEN,Beetle,2017,183.3333333,2,4,AS6,X,front wheel drive,2,Compact,2dr Hatchback,8.2,26100.93333
+VOLKSWAGEN,Beetle Convertible,2016,186.2921348,2,4,AS6,X,front wheel drive,2,Compact,Convertible,8.2,30491.96629
+VOLKSWAGEN,CC,2017,205,2,4,A6,Z,front wheel drive,4,Midsize,Sedan,9.7,35854.375
+VOLKSWAGEN,CC,2017,205,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.8,35854.375
+VOLKSWAGEN,CC,2017,205,2,4,AM6,Z,front wheel drive,4,Midsize,Sedan,9.3,35854.375
+VOLKSWAGEN,CC,2017,205,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.6,35854.375
+VOLKSWAGEN,CC,2017,205,2,4,AM6,Z,front wheel drive,4,Midsize,Sedan,9.3,35854.375
+VOLKSWAGEN,EOS,2016,200,2,4,A6,Z,front wheel drive,2,Compact,Convertible,9.6,38063.57143
+VOLKSWAGEN,EOS,2016,200,2,4,AM6,Z,front wheel drive,2,Compact,Convertible,9.5,38063.57143
+VOLKSWAGEN,GOLF,2017,165.5555556,1.8,4,AS6,X,front wheel drive,3.481481481,Compact,4dr Hatchback,8.1,22647.22222
+VOLKSWAGEN,GOLF,2017,165.5555556,1.8,4,M5,X,front wheel drive,3.481481481,Compact,4dr Hatchback,8,22647.22222
+VOLKSWAGEN,GOLF,2017,165.5555556,1.8,4,AS6,X,front wheel drive,3.481481481,Compact,4dr Hatchback,8.1,22647.22222
+VOLKSWAGEN,GOLF,2017,165.5555556,1.8,4,M5,X,front wheel drive,3.481481481,Compact,4dr Hatchback,8,22647.22222
+VOLKSWAGEN,GOLF,2017,165.5555556,1.8,4,AS6,X,front wheel drive,3.481481481,Compact,4dr Hatchback,8.2,22647.22222
+VOLKSWAGEN,GOLF,2017,165.5555556,1.8,4,M5,X,front wheel drive,3.481481481,Compact,4dr Hatchback,8.1,22647.22222
+VOLKSWAGEN,GOLF,2017,165.5555556,1.8,4,AS6,X,front wheel drive,3.481481481,Compact,4dr Hatchback,8.5,22647.22222
+VOLKSWAGEN,GOLF,2017,165.5555556,1.8,4,M5,X,front wheel drive,3.481481481,Compact,4dr Hatchback,8.2,22647.22222
+VOLKSWAGEN,GOLF ALLTRACK,2017,170,1.8,4,AM6,X,all wheel drive,4,Compact,Wagon,9.4,29130
+VOLKSWAGEN,GOLF ALLTRACK,2017,170,1.8,4,AM6,X,all wheel drive,4,Compact,Wagon,9.4,29130
+VOLKSWAGEN,GOLF ALLTRACK,2017,170,1.8,4,M6,X,all wheel drive,4,Compact,Wagon,9.6,29130
+VOLKSWAGEN,GOLF GTI,2017,215.2,2,4,AM6,Z,front wheel drive,3.28,Compact,4dr Hatchback,8.5,28791.6
+VOLKSWAGEN,GOLF GTI,2017,215.2,2,4,M6,Z,front wheel drive,3.28,Compact,4dr Hatchback,8.3,28791.6
+VOLKSWAGEN,GOLF GTI,2017,215.2,2,4,AM6,X,front wheel drive,3.28,Compact,4dr Hatchback,8.5,28791.6
+VOLKSWAGEN,GOLF GTI,2017,215.2,2,4,M6,X,front wheel drive,3.28,Compact,4dr Hatchback,8.3,28791.6
+VOLKSWAGEN,GOLF GTI,2017,215.2,2,4,AM6,X,front wheel drive,3.28,Compact,4dr Hatchback,8.5,28791.6
+VOLKSWAGEN,GOLF GTI,2017,215.2,2,4,M6,X,front wheel drive,3.28,Compact,4dr Hatchback,8.5,28791.6
+VOLKSWAGEN,GOLF GTI,2017,215.2,2,4,AM6,X,front wheel drive,3.28,Compact,4dr Hatchback,8.6,28791.6
+VOLKSWAGEN,GOLF GTI,2017,215.2,2,4,M6,X,front wheel drive,3.28,Compact,4dr Hatchback,8.5,28791.6
+VOLKSWAGEN,GOLF R,2017,292,2,4,AM6,Z,all wheel drive,4,Compact,4dr Hatchback,9.3,37723.5
+VOLKSWAGEN,GOLF R,2017,292,2,4,M6,Z,all wheel drive,4,Compact,4dr Hatchback,9.4,37723.5
+VOLKSWAGEN,GOLF R,2017,292,2,4,AM7,Z,all wheel drive,4,Compact,4dr Hatchback,9.4,37723.5
+VOLKSWAGEN,GOLF R,2017,292,2,4,M6,Z,all wheel drive,4,Compact,4dr Hatchback,9.8,37723.5
+VOLKSWAGEN,GOLF SPORTWAGEN,2017,163.6842105,1.8,4,AS6,X,front wheel drive,4,Compact,Wagon,8.2,26127.10526
+VOLKSWAGEN,GOLF SPORTWAGEN,2017,163.6842105,1.8,4,M5,X,front wheel drive,4,Compact,Wagon,8.3,26127.10526
+VOLKSWAGEN,GOLF SPORTWAGEN,2017,163.6842105,1.8,4,AS6,X,front wheel drive,4,Compact,Wagon,8.5,26127.10526
+VOLKSWAGEN,GOLF SPORTWAGEN,2017,163.6842105,1.8,4,M5,X,front wheel drive,4,Compact,Wagon,8.2,26127.10526
+VOLKSWAGEN,Golf,2017,165.5555556,1.4,4,AS8,X,front wheel drive,3.481481481,Compact,4dr Hatchback,7.4,22647.22222
+VOLKSWAGEN,Golf,2017,165.5555556,1.4,4,M6,X,front wheel drive,3.481481481,Compact,4dr Hatchback,7.4,22647.22222
+VOLKSWAGEN,Golf,2017,165.5555556,1.4,4,AS8,X,front wheel drive,3.481481481,Compact,4dr Hatchback,7.4,22647.22222
+VOLKSWAGEN,Golf,2017,165.5555556,1.4,4,M6,X,front wheel drive,3.481481481,Compact,4dr Hatchback,7.6,22647.22222
+VOLKSWAGEN,Golf Alltrack,2017,170,1.8,4,AM6,X,all wheel drive,4,Compact,Wagon,9.4,29130
+VOLKSWAGEN,Golf Alltrack,2017,170,1.8,4,M6,X,all wheel drive,4,Compact,Wagon,9.6,29130
+VOLKSWAGEN,Golf GTI,2017,215.2,2,4,AM7,X,front wheel drive,3.28,Compact,4dr Hatchback,8.6,28791.6
+VOLKSWAGEN,Golf GTI,2017,215.2,2,4,M6,X,front wheel drive,3.28,Compact,4dr Hatchback,8.7,28791.6
+VOLKSWAGEN,Golf GTI,2017,215.2,2,4,AM7,X,front wheel drive,3.28,Compact,4dr Hatchback,8.7,28791.6
+VOLKSWAGEN,Golf R,2017,292,2,4,AM7,Z,all wheel drive,4,Compact,4dr Hatchback,9.2,37723.5
+VOLKSWAGEN,Golf R,2017,292,2,4,M6,Z,all wheel drive,4,Compact,4dr Hatchback,9.9,37723.5
+VOLKSWAGEN,Golf SportWagen,2017,163.6842105,1.4,4,AS8,X,front wheel drive,4,Compact,Wagon,7.6,26127.10526
+VOLKSWAGEN,Golf SportWagen,2017,163.6842105,1.4,4,M6,X,front wheel drive,4,Compact,Wagon,7.4,26127.10526
+VOLKSWAGEN,JETTA,2017,171.7213115,1.8,4,A6,X,front wheel drive,4,Midsize,Sedan,8.2,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.8,4,M5,X,front wheel drive,4,Midsize,Sedan,8.2,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,2,4,A6,X,front wheel drive,4,Midsize,Sedan,9.4,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,2,4,M5,X,front wheel drive,4,Midsize,Sedan,9,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.8,4,AS6,X,front wheel drive,4,Midsize,Sedan,7.9,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.8,4,M5,X,front wheel drive,4,Midsize,Sedan,8,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.9,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,2,4,M5,X,front wheel drive,4,Midsize,Sedan,8.4,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,7.3,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.4,4,M5,X,front wheel drive,4,Midsize,Sedan,7.2,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.8,4,AS6,X,front wheel drive,4,Midsize,Sedan,8,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.8,4,M5,X,front wheel drive,4,Midsize,Sedan,8.1,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,2,4,AM6,X,front wheel drive,4,Midsize,Sedan,8.6,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,2,4,M6,X,front wheel drive,4,Midsize,Sedan,8.8,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.4,4,AS6,X,front wheel drive,4,Midsize,Sedan,7.4,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,1.8,4,AM6,X,front wheel drive,4,Midsize,Sedan,8.2,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.7,23953.52459
+VOLKSWAGEN,JETTA,2017,171.7213115,2,4,M6,X,front wheel drive,4,Midsize,Sedan,8.9,23953.52459
+VOLKSWAGEN,JETTA GLI,2014,207.2727273,2,4,A6,Z,front wheel drive,4,Midsize,Sedan,9,27350
+VOLKSWAGEN,JETTA GLI,2014,207.2727273,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,9.2,27350
+VOLKSWAGEN,JETTA GLI,2014,207.2727273,2,4,AM6,Z,front wheel drive,4,Midsize,Sedan,8.8,27350
+VOLKSWAGEN,JETTA GLI,2014,207.2727273,2,4,M6,Z,front wheel drive,4,Midsize,Sedan,8.9,27350
+VOLKSWAGEN,JETTA HYBRID,2014,170,1.4,4,AM7,Z,front wheel drive,4,Midsize,Sedan,5.3,28479.375
+VOLKSWAGEN,JETTA HYBRID,2014,170,1.4,4,AM7,Z,front wheel drive,4,Midsize,Sedan,5.3,28479.375
+VOLKSWAGEN,Jetta,2017,171.7213115,1.4,4,AS8,X,front wheel drive,4,Midsize,Sedan,7,23953.52459
+VOLKSWAGEN,Jetta,2017,171.7213115,1.4,4,M6,X,front wheel drive,4,Midsize,Sedan,7,23953.52459
+VOLKSWAGEN,Jetta GLI,2014,207.2727273,2,4,AM7,X,front wheel drive,4,Midsize,Sedan,8.4,27350
+VOLKSWAGEN,Jetta GLI,2014,207.2727273,2,4,M6,X,front wheel drive,4,Midsize,Sedan,8.5,27350
+VOLKSWAGEN,Jetta GLI,2014,207.2727273,2,4,M6,X,front wheel drive,4,Midsize,Sedan,8.5,27350
+VOLKSWAGEN,PASSAT,2017,178,1.8,4,A6,X,front wheel drive,4,Midsize,Sedan,8.6,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,1.8,4,M5,X,front wheel drive,4,Midsize,Sedan,8.6,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,2.5,5,A6,X,front wheel drive,4,Midsize,Sedan,9.7,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,2.5,5,M5,X,front wheel drive,4,Midsize,Sedan,9.8,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,3.6,6,A6,Z,front wheel drive,4,Midsize,Sedan,10.8,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,1.8,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.3,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,1.8,4,M5,X,front wheel drive,4,Midsize,Sedan,8.4,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,3.6,6,AM6,Z,front wheel drive,4,Midsize,Sedan,10.4,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,1.8,4,AS6,X,front wheel drive,4,Midsize,Sedan,8,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,1.8,4,M6,X,front wheel drive,4,Midsize,Sedan,8.1,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,3.6,6,AM6,X,front wheel drive,4,Midsize,Sedan,10.4,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,1.8,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.7,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,3.6,6,AM6,X,front wheel drive,4,Midsize,Sedan,10.4,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.1,27465.88889
+VOLKSWAGEN,PASSAT,2017,178,3.6,6,AM6,X,front wheel drive,4,Midsize,Sedan,10.6,27465.88889
+VOLKSWAGEN,Passat,2017,178,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.1,27465.88889
+VOLKSWAGEN,Passat,2017,178,2,4,AS6,X,front wheel drive,4,Midsize,Sedan,8.7,27465.88889
+VOLKSWAGEN,ROUTAN,2012,260.6666667,3.6,6,A6,X,front wheel drive,4,Midsize,Passenger Minivan,12.1,35601.25
+VOLKSWAGEN,TIGUAN,2017,200,2,4,A6,Z,all wheel drive,4,Compact,4dr SUV,10.7,31650.96154
+VOLKSWAGEN,TIGUAN,2017,200,2,4,M6,Z,all wheel drive,4,Compact,4dr SUV,11.6,31650.96154
+VOLKSWAGEN,TIGUAN,2017,200,2,4,AS6,Z,all wheel drive,4,Compact,4dr SUV,10.5,31650.96154
+VOLKSWAGEN,TIGUAN,2017,200,2,4,M6,Z,all wheel drive,4,Compact,4dr SUV,11.2,31650.96154
+VOLKSWAGEN,TIGUAN,2017,200,2,4,AS6,Z,all wheel drive,4,Compact,4dr SUV,10.7,31650.96154
+VOLKSWAGEN,TIGUAN,2017,200,2,4,M6,Z,all wheel drive,4,Compact,4dr SUV,11.2,31650.96154
+VOLKSWAGEN,TIGUAN,2017,200,2,4,AS6,Z,all wheel drive,4,Compact,4dr SUV,10.7,31650.96154
+VOLKSWAGEN,TIGUAN,2017,200,2,4,AS8,X,all wheel drive,4,Compact,4dr SUV,9.8,31650.96154
+VOLKSWAGEN,TOUAREG,2017,272.2222222,3.6,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,12.6,54166.66667
+VOLKSWAGEN,TOUAREG,2017,272.2222222,3.6,6,AS8,Z,all wheel drive,4,Midsize,4dr SUV,12.4,54166.66667
+VOLKSWAGEN,TOUAREG,2017,272.2222222,3.6,6,AS8,X,all wheel drive,4,Midsize,4dr SUV,12.4,54166.66667
+VOLKSWAGEN,TOUAREG,2017,272.2222222,3.6,6,AS8,X,all wheel drive,4,Midsize,4dr SUV,12.2,54166.66667
+VOLKSWAGEN,Tiguan,2017,200,2,4,AS8,X,all wheel drive,4,Compact,4dr SUV,9.5,31650.96154
+VOLKSWAGEN,Tiguan,2017,200,2,4,AS8,X,all wheel drive,4,Compact,4dr SUV,9.4,31650.96154
+VOLVO,S60,2017,273.8928571,2.5,5,AS6,X,all wheel drive,4,Midsize,Sedan,9.7,40721.42857
+VOLVO,S80,2016,262.5,3.2,6,AS6,X,front wheel drive,4,Midsize,Sedan,10.2,43365.625
+VOLVO,XC60,2017,280.5,3.2,6,AS6,X,all wheel drive,4,Midsize,4dr SUV,11.2,43620.37037
