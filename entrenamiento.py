@@ -4,6 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
+import joblib
 
 # Data
 X = pd.read_csv('autos_unificados.csv')
@@ -88,3 +89,12 @@ scores = cross_val_score(
 print(f"Scores por fold: {scores.round(4)}")
 print(f"Promedio:        {scores.mean():.4f} ({scores.mean()*100:.1f}%)")
 print(f"Desviación:      {scores.std():.4f}")
+
+
+
+# Guardar modelo
+joblib.dump(modelo_rf, 'modelos/modelo_recomendador.pkl')
+# Guardar scaler 
+joblib.dump(scaler, 'scaler/scaler.pkl')
+
+print("Modelo y scaler exportados")
