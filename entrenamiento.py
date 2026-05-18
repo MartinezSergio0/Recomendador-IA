@@ -10,7 +10,7 @@ import joblib
 X = pd.read_csv('autos_unificados.csv')
 y = pd.read_csv('Etiquetas_perfil.csv')
 
-X = X.drop(columns=['Make', 'Model'])
+X = X.drop(columns=['Make', 'Model', 'MSRP'])
 
 # Para evitar problemas con datos de texto
 encoder = LabelEncoder()
@@ -41,10 +41,10 @@ modelo_rf = RandomForestClassifier(
     n_estimators=100,
     random_state=42,
     class_weight='balanced',
-    max_depth=10,
-    min_samples_leaf=5,
-    min_samples_split=10,
-    max_features='sqrt'
+    max_depth=13,
+    # min_samples_leaf=5,
+    # min_samples_split=10,
+    # max_features='sqrt'
 )
 modelo_rf.fit(X_train_scaled, y_train.values.ravel())
 
@@ -60,7 +60,7 @@ plt.xlabel('Importancia')
 plt.title('Importancia de las Características', fontsize=13, fontweight='bold')
 plt.grid(axis='x', linestyle='--', alpha=0.7)
 plt.tight_layout()
-#plt.show()
+plt.show()
 
 y_pred = modelo_rf.predict(X_test_scaled)
 
